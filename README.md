@@ -5,7 +5,7 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset.
 #### Paper list
 
 * PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting [arxiv 20 Sep 2022](https://arxiv.org/abs/2210.08964)
-* One Fits All:Power General Time Series Analysis by Pretrained LM [arxiv 23 Feb 2023](https://arxiv.org/abs/2302.11939)
+* One Fits All:Power General Time Series Analysis by Pretrained LM [arxiv 23 Feb 2023](https://arxiv.org/abs/2302.11939) [no-officail reproduction](https://github.com/liaoyuhua/GPT-TS)
 * FinGPT: Open-Source Financial Large Language Models [arxiv 9 Jun 2023](https://arxiv.org/abs/2306.06031)
 * Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting [arxiv 19 Jun 2023](https://arxiv.org/abs/2306.11025)
 * Meta-Transformer: A Unified Framework for Multimodal Learning [20 Jul 2023](https://arxiv.org/abs/2307.10802) [Meta-Transformer](https://kxgong.github.io/meta_transformer/)
@@ -34,7 +34,7 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset.
 * [Anomaly Detection in Time Series using ChatGPT]( https://medium.com/@sztistvan/anomaly-detection-in-time-series-using-chatgpt-3fc48f958c88)
 * [Change Point Detection in Time Series using ChatGPT](https://medium.com/@sztistvan/change-point-detection-in-time-series-using-chatgpt-22cc9172a130)
 * [Time_Series_Instruct](https://github.com/michael-wzhu/Time_Series_Instruct)
-* 
+* [qingsongedu/Awesome-TimeSeries-AIOps-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-AIOps-LM-LLM)
 
 #### Laboratory
 
