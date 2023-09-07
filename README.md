@@ -27,14 +27,24 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset.
 
 * Applications of Self-Supervised Learning to Biomedical Signals: where are we now [**post date 2023-04-11**](https://www.techrxiv.org/articles/preprint/Applications_of_Self-Supervised_Learning_to_Biomedical_Signals_where_are_we_now/22567021/2)
 
-  
+* What Constitutes Good Contrastive Learning in Time-Series Forecasting? [last revised 13 Aug 2023](https://arxiv.org/abs/2306.12086)
+
+* 
+
 
 #### Blog list
 
 * [Anomaly Detection in Time Series using ChatGPT]( https://medium.com/@sztistvan/anomaly-detection-in-time-series-using-chatgpt-3fc48f958c88)
+
 * [Change Point Detection in Time Series using ChatGPT](https://medium.com/@sztistvan/change-point-detection-in-time-series-using-chatgpt-22cc9172a130)
+
 * [Time_Series_Instruct](https://github.com/michael-wzhu/Time_Series_Instruct)
+
 * [qingsongedu/Awesome-TimeSeries-AIOps-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-AIOps-LM-LLM)
+
+* [](https://github.com/liaoyuhua/LLM4TS)
+
+  
 
 #### Laboratory
 
