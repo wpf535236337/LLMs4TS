@@ -14,6 +14,7 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset.
 * LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08469) 
 * Time-LLM: Time Series Forecasting by Reprogramming Large Language Models [arxiv 3 Oct 2023](https://arxiv.org/abs/2310.01728)
 * Large Language Models Are Zero-Shot Time Series Forecasters [ NeurIPS 2023 11 Oct 2023](https://arxiv.org/abs/2310.07820)  [llmtime](https://github.com/ngruver/llmtime)
+* Lag-Llama: Towards Foundation Models for Time Series Forecasting [12 Oct 2023](https://arxiv.org/abs/2310.08278)  [Lag-Llama](https://github.com/kashif/pytorch-transformer-ts)
 * 
 
 #### SSL4TS
