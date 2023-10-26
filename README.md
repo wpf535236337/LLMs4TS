@@ -12,6 +12,7 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset.
 * Meta-Transformer: A Unified Framework for Multimodal Learning [20 Jul 2023](https://arxiv.org/abs/2307.10802) [Meta-Transformer](https://kxgong.github.io/meta_transformer/)
 * TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08241#:~:text=TEST%3A%20Text%20Prototype%20Aligned%20Embedding%20to%20Activate%20LLM's%20Ability%20for%20Time%20Series,-Chenxi%20Sun%2C%20Yaliang&text=This%20work%20summarizes%20two%20strategies,LLM%20to%20handle%20TS%20data.)
 * LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08469) 
+* The first step is the hardest: Pitfalls of Representing and Tokenizing Temporal Data for Large Language Models [arxiv 12 Sep 2023](https://arxiv.org/abs/2309.06236)
 * Time-LLM: Time Series Forecasting by Reprogramming Large Language Models [arxiv 3 Oct 2023](https://arxiv.org/abs/2310.01728)
 * TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting [ arxiv 8 Oct 2023](https://arxiv.org/abs/2310.04948) 
 * Pushing the Limits of Pre-training for Time Series Forecasting in the CloudOps Domain [arxiv 2023 8 Oct 2023](https://arxiv.org/abs/2310.05063)
