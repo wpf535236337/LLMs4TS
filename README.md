@@ -5,7 +5,7 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset.
 #### Paper list
 
 * PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting [arxiv 20 Sep 2022](https://arxiv.org/abs/2210.08964)
-* One Fits All:Power General Time Series Analysis by Pretrained LM [arxiv 23 Feb 2023](https://arxiv.org/abs/2302.11939) [no-officail reproduction](https://github.com/liaoyuhua/GPT-TS)
+* One Fits All:Power General Time Series Analysis by Pretrained LM [arxiv 23 Feb 2023](https://arxiv.org/abs/2302.11939) [NeurIPS2023-One-Fits-All](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)[no-officail reproduction](https://github.com/liaoyuhua/GPT-TS)
 * Frozen Language Model Helps ECG Zero-Shot Learning [22 Mar 2023](https://arxiv.org/abs/2303.12311)
 * FinGPT: Open-Source Financial Large Language Models [arxiv 9 Jun 2023](https://arxiv.org/abs/2306.06031)
 * Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting [arxiv 19 Jun 2023](https://arxiv.org/abs/2306.11025)
@@ -14,29 +14,28 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset.
 * LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08469) 
 * The first step is the hardest: Pitfalls of Representing and Tokenizing Temporal Data for Large Language Models [arxiv 12 Sep 2023](https://arxiv.org/abs/2309.06236)
 * Time-LLM: Time Series Forecasting by Reprogramming Large Language Models [arxiv 3 Oct 2023](https://arxiv.org/abs/2310.01728)
+* TimeGPT-1 [arxiv 2023 *5 Oct 2023*](https://arxiv.org/abs/2310.03589)
 * TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting [ arxiv 8 Oct 2023](https://arxiv.org/abs/2310.04948) 
 * Pushing the Limits of Pre-training for Time Series Forecasting in the CloudOps Domain [arxiv 2023 8 Oct 2023](https://arxiv.org/abs/2310.05063)
 * Large Language Models Are Zero-Shot Time Series Forecasters [ NeurIPS 2023 11 Oct 2023](https://arxiv.org/abs/2310.07820)  [llmtime](https://github.com/ngruver/llmtime)
 * Lag-Llama: Towards Foundation Models for Time Series Forecasting [arxiv 12 Oct 2023](https://arxiv.org/abs/2310.08278)  [Lag-Llama](https://github.com/kashif/pytorch-transformer-ts)
-* 
+* Toward a Foundation Model for Time Series Data [21 Oct 2023](https://dl.acm.org/doi/abs/10.1145/3583780.3615155)
 
 #### SSL4TS
 
 * Unsupervised Representation Learning for Time Series: A Review [3 Aug 2023](https://arxiv.org/abs/2308.01578) [ULTS](https://github.com/mqwfrog/ULTS)
-
 * Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects [16 Jun 2023](https://arxiv.org/abs/2306.10125) [SSL4TS](https://github.com/qingsongedu/Awesome-SSL4TS)
-
-*  A Survey on Time-Series Pre-Trained Models [18 May 2023](https://arxiv.org/abs/2305.10716)  [time-series-ptms](https://github.com/qianlima-lab/time-series-ptms)
-
-*  Self-Supervised Learning for Time Series: Contrastive or Generative? [AI4TS workshop at IJCAI 2023](https://github.com/AI4TS/AI4TS.github.io/blob/main/CameraReadys%201-22%202/5%5CCameraReady%5CIJCAI23_TSworkshop_Jun29.pdf) [SSL_Comparison](https://github.com/DL4mHealth/SSL_Comparison)
-
+* A Survey on Time-Series Pre-Trained Models [18 May 2023](https://arxiv.org/abs/2305.10716)  [time-series-ptms](https://github.com/qianlima-lab/time-series-ptms)
+* Self-Supervised Learning for Time Series: Contrastive or Generative? [AI4TS workshop at IJCAI 2023](https://github.com/AI4TS/AI4TS.github.io/blob/main/CameraReadys%201-22%202/5%5CCameraReady%5CIJCAI23_TSworkshop_Jun29.pdf) [SSL_Comparison](https://github.com/DL4mHealth/SSL_Comparison)
 * Self-Supervised Contrastive Learning for Medical Time Series: A Systematic Review [*Sensors* in 2023](https://www.mdpi.com/1424-8220/23/9/4221) [Contrastive-Learning-in-Medical-Time-Series-Survey](https://github.com/DL4mHealth/Contrastive-Learning-in-Medical-Time-Series-Survey)
-
 * Applications of Self-Supervised Learning to Biomedical Signals: where are we now [**post date 2023-04-11**](https://www.techrxiv.org/articles/preprint/Applications_of_Self-Supervised_Learning_to_Biomedical_Signals_where_are_we_now/22567021/2)
-
 * What Constitutes Good Contrastive Learning in Time-Series Forecasting? [last revised 13 Aug 2023](https://arxiv.org/abs/2306.12086)
-
 * Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook [arxiv 16 Oct 2023](https://arxiv.org/abs/2310.10196) [Awesome-TimeSeries-SpatioTemporal-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)
+
+#### Multimodal TS
+
+* Frequency-Aware Masked Autoencoders for Multimodal Pretraining on Biosignals [12 Sep 2023 ](https://arxiv.org/abs/2309.05927)
+* FOCAL: Contrastive Learning for Multimodal Time-Series Sensing Signals in Factorized Orthogonal Latent Space [*NeurIPS'23* 30 Oct 2023](https://arxiv.org/abs/2310.20071) [focal](https://github.com/tomoyoshki/focal)
 
 
 #### Blog list
@@ -51,7 +50,11 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset.
 
 * [LLM for Time Series](https://github.com/liaoyuhua/LLM4TS)
 
-  
+* [Time Series AI Papers](https://github.com/xiyuanzh/time-series-papers)
+
+* [Multivariate Time Series Transformer Framework](https://github.com/gzerveas/mvts_transformer)
+
+* [Huggingface 镜像站](https://hf-mirror.com/)
 
 #### Laboratory
 
