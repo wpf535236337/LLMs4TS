@@ -1,6 +1,6 @@
 # LLMs4TS
 
-Awesome resources of Large language models **(LLMs)** for time-series dataset.
+Awesome resources of Large language models **(LLMs)** for time-series dataset. These resources concentrate on *self-supervised methods*, *GNN4TS*, *MLPer* and go beyond Transformer-based models. Whether you're a professional or data scientist, these tools and techniques can enhance your time-series data analysis with LLMs or foundation models.
 
 #### Paper list
 
@@ -19,7 +19,14 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset.
 * Pushing the Limits of Pre-training for Time Series Forecasting in the CloudOps Domain [arxiv 2023 8 Oct 2023](https://arxiv.org/abs/2310.05063)
 * Large Language Models Are Zero-Shot Time Series Forecasters [ NeurIPS 2023 11 Oct 2023](https://arxiv.org/abs/2310.07820)  [llmtime](https://github.com/ngruver/llmtime)
 * Lag-Llama: Towards Foundation Models for Time Series Forecasting [arxiv 12 Oct 2023](https://arxiv.org/abs/2310.08278)  [Lag-Llama](https://github.com/kashif/pytorch-transformer-ts)
+* iTransformer: Inverted Transformers Are Effective for Time Series Forecasting [arxiv 13  Oct 2023 ]() [iTransformer]([GitHub - thuml/iTransformer: This is the official implementation for "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting".](https://github.com/thuml/iTransformer))
 * Toward a Foundation Model for Time Series Data [21 Oct 2023](https://dl.acm.org/doi/abs/10.1145/3583780.3615155)
+
+#### Patch methods
+
+* Patches Are All You Need? [*ICLR 24 Jan 2022*](https://arxiv.org/abs/2201.09792)  [convmixer](https://github.com/locuslab/convmixer)
+* A Time Series is Worth 64 Words: Long-term Forecasting with Transformers [ICLR 2023 *27 Nov 2022*](https://arxiv.org/abs/2211.14730) [PatchTST](https://github.com/yuqinie98/PatchTST)
+* PatchMixer: A Patch-Mixing Architecture for Long-Term Time Series Forecasting [arxiv  *1 Oct 2023*](https://arxiv.org/abs/2310.00655) [PatchMixer](https://github.com/Zeying-Gong/PatchMixer) [Chinese blog](https://mp.weixin.qq.com/s/gfAqL7bosdc0mxz8SziBbQ)
 
 #### SSL4TS
 
@@ -36,24 +43,23 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset.
 
 * Frequency-Aware Masked Autoencoders for Multimodal Pretraining on Biosignals [12 Sep 2023 ](https://arxiv.org/abs/2309.05927)
 * FOCAL: Contrastive Learning for Multimodal Time-Series Sensing Signals in Factorized Orthogonal Latent Space [*NeurIPS'23* 30 Oct 2023](https://arxiv.org/abs/2310.20071) [focal](https://github.com/tomoyoshki/focal)
+* Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on A Novel Dataset with Continuous Labels [ACMMM 27 October 2023](https://dl.acm.org/doi/10.1145/3581783.3613797)
+* 
+
+#### Project
+
+* [ddz16/TSFpaper](https://github.com/ddz16/TSFpaper)
+* [Time_Series_Instruct](https://github.com/michael-wzhu/Time_Series_Instruct)
+* [qingsongedu/Awesome-TimeSeries-AIOps-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-AIOps-LM-LLM)
+* [LLM for Time Series](https://github.com/liaoyuhua/LLM4TS)
+* [Time Series AI Papers](https://github.com/xiyuanzh/time-series-papers)
+* [Multivariate Time Series Transformer Framework](https://github.com/gzerveas/mvts_transformer)
 
 
 #### Blog list
 
 * [Anomaly Detection in Time Series using ChatGPT]( https://medium.com/@sztistvan/anomaly-detection-in-time-series-using-chatgpt-3fc48f958c88)
-
 * [Change Point Detection in Time Series using ChatGPT](https://medium.com/@sztistvan/change-point-detection-in-time-series-using-chatgpt-22cc9172a130)
-
-* [Time_Series_Instruct](https://github.com/michael-wzhu/Time_Series_Instruct)
-
-* [qingsongedu/Awesome-TimeSeries-AIOps-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-AIOps-LM-LLM)
-
-* [LLM for Time Series](https://github.com/liaoyuhua/LLM4TS)
-
-* [Time Series AI Papers](https://github.com/xiyuanzh/time-series-papers)
-
-* [Multivariate Time Series Transformer Framework](https://github.com/gzerveas/mvts_transformer)
-
 * [Huggingface 镜像站](https://hf-mirror.com/)
 
 #### Laboratory
