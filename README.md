@@ -5,7 +5,7 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 #### Paper list
 
 * PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting [arxiv 20 Sep 2022](https://arxiv.org/abs/2210.08964)
-* One Fits All:Power General Time Series Analysis by Pretrained LM [arxiv 23 Feb 2023](https://arxiv.org/abs/2302.11939) [NeurIPS2023-One-Fits-All](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)[no-officail reproduction](https://github.com/liaoyuhua/GPT-TS)
+* One Fits All:Power General Time Series Analysis by Pretrained LM [arxiv 23 Feb 2023](https://arxiv.org/abs/2302.11939) [NeurIPS2023-One-Fits-All](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All) [no-officail reproduction](https://github.com/liaoyuhua/GPT-TS)
 * Frozen Language Model Helps ECG Zero-Shot Learning [22 Mar 2023](https://arxiv.org/abs/2303.12311)
 * FinGPT: Open-Source Financial Large Language Models [arxiv 9 Jun 2023](https://arxiv.org/abs/2306.06031)
 * Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting [arxiv 19 Jun 2023](https://arxiv.org/abs/2306.11025)
@@ -27,6 +27,12 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * Patches Are All You Need? [*ICLR 24 Jan 2022*](https://arxiv.org/abs/2201.09792)  [convmixer](https://github.com/locuslab/convmixer)
 * A Time Series is Worth 64 Words: Long-term Forecasting with Transformers [ICLR 2023 *27 Nov 2022*](https://arxiv.org/abs/2211.14730) [PatchTST](https://github.com/yuqinie98/PatchTST)
 * PatchMixer: A Patch-Mixing Architecture for Long-Term Time Series Forecasting [arxiv  *1 Oct 2023*](https://arxiv.org/abs/2310.00655) [PatchMixer](https://github.com/Zeying-Gong/PatchMixer) [Chinese blog](https://mp.weixin.qq.com/s/gfAqL7bosdc0mxz8SziBbQ)
+
+#### Clinic dataset
+
+* Neuro-GPT: Developing A Foundation Model for EEG [arxiv 7 Nov 2023](https://arxiv.org/abs/2311.03764)
+* Brant: Foundation Model for Intracranial Neural Signal [NeurIPS23](http://yangy.org/works/brainnet/NeurIPS23_Brant.pdf)
+* PPi: Pretraining Brain Signal Model for Patient-independent Seizure Detection [NeurIPS23](http://yangy.org/works/brainnet/NeurIPS23_PPi.pdf)
 
 #### SSL4TS
 
