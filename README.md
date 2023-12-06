@@ -21,6 +21,8 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * Lag-Llama: Towards Foundation Models for Time Series Forecasting [arxiv 12 Oct 2023](https://arxiv.org/abs/2310.08278)  [Lag-Llama](https://github.com/kashif/pytorch-transformer-ts)
 * iTransformer: Inverted Transformers Are Effective for Time Series Forecasting [arxiv 13  Oct 2023 ]() [iTransformer]([GitHub - thuml/iTransformer: This is the official implementation for "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting".](https://github.com/thuml/iTransformer))
 * Toward a Foundation Model for Time Series Data [21 Oct 2023](https://dl.acm.org/doi/abs/10.1145/3583780.3615155)
+* GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation [24 Nov 2023](https://arxiv.org/abs/2311.14332)
+* 
 
 #### Patch methods
 
@@ -28,14 +30,20 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * A Time Series is Worth 64 Words: Long-term Forecasting with Transformers [ICLR 2023 *27 Nov 2022*](https://arxiv.org/abs/2211.14730) [PatchTST](https://github.com/yuqinie98/PatchTST)
 * PatchMixer: A Patch-Mixing Architecture for Long-Term Time Series Forecasting [arxiv  *1 Oct 2023*](https://arxiv.org/abs/2310.00655) [PatchMixer](https://github.com/Zeying-Gong/PatchMixer) [Chinese blog](https://mp.weixin.qq.com/s/gfAqL7bosdc0mxz8SziBbQ)
 
-#### Clinic dataset
+#### Biosignals dataset
 
 * Neuro-GPT: Developing A Foundation Model for EEG [arxiv 7 Nov 2023](https://arxiv.org/abs/2311.03764)
 * Brant: Foundation Model for Intracranial Neural Signal [NeurIPS23](http://yangy.org/works/brainnet/NeurIPS23_Brant.pdf)
 * PPi: Pretraining Brain Signal Model for Patient-independent Seizure Detection [NeurIPS23](http://yangy.org/works/brainnet/NeurIPS23_PPi.pdf)
+* Large-scale training of foundation models for wearable biosignals [submit ICLR 2024](https://openreview.net/forum?id=pC3WJHf51j)
+* BIOT: Cross-data Biosignal Learning in the Wild [NeurIPS23](https://arxiv.org/abs/2305.10351) [BIOT](https://github.com/ycq091044/BIOT)
+* Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI [submit ICLR 2024](https://openreview.net/forum?id=QzTpTRVtrP)
+* Practical intelligent diagnostic algorithm for wearable 12-lead ECG via self-supervised learning on large-scale dataset [Nature Communications 2023](https://www.nature.com/articles/s41467-023-39472-8)
+* 
 
 #### SSL4TS
 
+* Self-supervised Contrastive Representation Learning for Semi-supervised Time-Series Classification [TPAMI 13 Aug 2022](https://arxiv.org/abs/2208.06616) [CA-TCC](https://github.com/emadeldeen24/CA-TCC)
 * Unsupervised Representation Learning for Time Series: A Review [3 Aug 2023](https://arxiv.org/abs/2308.01578) [ULTS](https://github.com/mqwfrog/ULTS)
 * Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects [16 Jun 2023](https://arxiv.org/abs/2306.10125) [SSL4TS](https://github.com/qingsongedu/Awesome-SSL4TS)
 * A Survey on Time-Series Pre-Trained Models [18 May 2023](https://arxiv.org/abs/2305.10716)  [time-series-ptms](https://github.com/qianlima-lab/time-series-ptms)
@@ -60,6 +68,9 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * [LLM for Time Series](https://github.com/liaoyuhua/LLM4TS)
 * [Time Series AI Papers](https://github.com/xiyuanzh/time-series-papers)
 * [Multivariate Time Series Transformer Framework](https://github.com/gzerveas/mvts_transformer)
+* [xiyuanzh/time-series-papers](https://github.com/xiyuanzh/time-series-papers)
+* [vincentlux/Awesome-Multimodal-LLM](https://github.com/vincentlux/Awesome-Multimodal-LLM)
+* [yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)
 
 
 #### Blog list
@@ -67,6 +78,7 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * [Anomaly Detection in Time Series using ChatGPT]( https://medium.com/@sztistvan/anomaly-detection-in-time-series-using-chatgpt-3fc48f958c88)
 * [Change Point Detection in Time Series using ChatGPT](https://medium.com/@sztistvan/change-point-detection-in-time-series-using-chatgpt-22cc9172a130)
 * [Huggingface 镜像站](https://hf-mirror.com/)
+* 
 
 #### Laboratory
 
