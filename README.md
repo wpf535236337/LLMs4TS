@@ -47,6 +47,10 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * BIOT: Cross-data Biosignal Learning in the Wild [NeurIPS23](https://arxiv.org/abs/2305.10351) [BIOT](https://github.com/ycq091044/BIOT)
 * Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI [submit ICLR 2024](https://openreview.net/forum?id=QzTpTRVtrP)
 * Practical intelligent diagnostic algorithm for wearable 12-lead ECG via self-supervised learning on large-scale dataset [Nature Communications 2023](https://www.nature.com/articles/s41467-023-39472-8)
+
+####  Foundation for other domains
+
+* Foundation Models for *Weather and Climate Data* Understanding: A Comprehensive Survey [5 Dec 2023](https://arxiv.org/abs/2312.03014)
 * 
 
 #### SSL4TS
