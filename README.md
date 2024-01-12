@@ -22,6 +22,7 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * iTransformer: Inverted Transformers Are Effective for Time Series Forecasting [arxiv 13  Oct 2023 ]() [iTransformer]([GitHub - thuml/iTransformer: This is the official implementation for "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting".](https://github.com/thuml/iTransformer))
 * Toward a Foundation Model for Time Series Data [21 Oct 2023](https://dl.acm.org/doi/abs/10.1145/3583780.3615155)
 * GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation [24 Nov 2023](https://arxiv.org/abs/2311.14332)
+* Harnessing LLMs for Temporal Data - A Study on Explainable Financial Time Series Forecasting [2023.emnlp-industry](https://aclanthology.org/2023.emnlp-industry.69.pdf)
 * 
 
 #### Patch methods
@@ -29,6 +30,13 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * Patches Are All You Need? [*ICLR 24 Jan 2022*](https://arxiv.org/abs/2201.09792)  [convmixer](https://github.com/locuslab/convmixer)
 * A Time Series is Worth 64 Words: Long-term Forecasting with Transformers [ICLR 2023 *27 Nov 2022*](https://arxiv.org/abs/2211.14730) [PatchTST](https://github.com/yuqinie98/PatchTST)
 * PatchMixer: A Patch-Mixing Architecture for Long-Term Time Series Forecasting [arxiv  *1 Oct 2023*](https://arxiv.org/abs/2310.00655) [PatchMixer](https://github.com/Zeying-Gong/PatchMixer) [Chinese blog](https://mp.weixin.qq.com/s/gfAqL7bosdc0mxz8SziBbQ)
+* Learning to Embed Time Series Patches Independently [NeurIPS Workshop on Self-Supervised Learning: Theory and Practice, 2023](https://arxiv.org/abs/2312.16427) [pits](https://github.com/seunghan96/pits)
+
+#### Mixture-of-Experts (MoE)
+
+* Mixture-of-Linear-Experts for Long-term Time Series Forecasting [11 Dec 2023](https://arxiv.org/abs/2312.06786)
+* Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation [19 Dec 2023](https://arxiv.org/abs/2312.12276)
+* 
 
 #### Biosignals dataset
 
