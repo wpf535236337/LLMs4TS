@@ -69,6 +69,8 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * What Constitutes Good Contrastive Learning in Time-Series Forecasting? [last revised 13 Aug 2023](https://arxiv.org/abs/2306.12086)
 * Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook [arxiv 16 Oct 2023](https://arxiv.org/abs/2310.10196) [Awesome-TimeSeries-SpatioTemporal-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)
 * Toward a Foundation Model for Time Series Data [21 Oct 2023](https://dl.acm.org/doi/abs/10.1145/3583780.3615155) [code](https://sites.google.com/view/timeclr)
+* Universal Time-Series Representation Learning: A Survey [8 Jan 2024](https://arxiv.org/abs/2401.03717) [itouchz/awesome-deep-time-series-representations](https://github.com/itouchz/awesome-deep-time-series-representations)
+* 
 
 #### Multimodal TS
 
