@@ -2,14 +2,13 @@
 
 Awesome resources of Large language models **(LLMs)** for time-series dataset. These resources concentrate on *self-supervised methods*, *GNN4TS*, *MLPer* and go beyond Transformer-based models. Whether you're a professional or data scientist, these tools and techniques can enhance your time-series data analysis with LLMs or foundation models.
 
-#### Paper list
+#### Single Time-series domain
 
-* PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting [arxiv 20 Sep 2022](https://arxiv.org/abs/2210.08964)
+* PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting [arxiv 20 Sep 2022](https://arxiv.org/abs/2210.08964) [PISA)](https://github.com/HaoUNSW/PISA)
 * One Fits All:Power General Time Series Analysis by Pretrained LM [arxiv 23 Feb 2023](https://arxiv.org/abs/2302.11939) [NeurIPS2023-One-Fits-All](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All) [no-officail reproduction](https://github.com/liaoyuhua/GPT-TS)
 * Frozen Language Model Helps ECG Zero-Shot Learning [22 Mar 2023](https://arxiv.org/abs/2303.12311)
 * FinGPT: Open-Source Financial Large Language Models [arxiv 9 Jun 2023](https://arxiv.org/abs/2306.06031)
 * Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting [arxiv 19 Jun 2023](https://arxiv.org/abs/2306.11025)
-* Meta-Transformer: A Unified Framework for Multimodal Learning [20 Jul 2023](https://arxiv.org/abs/2307.10802) [Meta-Transformer](https://kxgong.github.io/meta_transformer/)
 * TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08241#:~:text=TEST%3A%20Text%20Prototype%20Aligned%20Embedding%20to%20Activate%20LLM's%20Ability%20for%20Time%20Series,-Chenxi%20Sun%2C%20Yaliang&text=This%20work%20summarizes%20two%20strategies,LLM%20to%20handle%20TS%20data.)
 * LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08469) 
 * The first step is the hardest: Pitfalls of Representing and Tokenizing Temporal Data for Large Language Models [arxiv 12 Sep 2023](https://arxiv.org/abs/2309.06236)
@@ -20,10 +19,15 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * Large Language Models Are Zero-Shot Time Series Forecasters [ NeurIPS 2023 11 Oct 2023](https://arxiv.org/abs/2310.07820)  [llmtime](https://github.com/ngruver/llmtime)
 * Lag-Llama: Towards Foundation Models for Time Series Forecasting [arxiv 12 Oct 2023](https://arxiv.org/abs/2310.08278)  [Lag-Llama](https://github.com/kashif/pytorch-transformer-ts)
 * iTransformer: Inverted Transformers Are Effective for Time Series Forecasting [arxiv 13  Oct 2023 ]() [iTransformer]([GitHub - thuml/iTransformer: This is the official implementation for "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting".](https://github.com/thuml/iTransformer))
-* Toward a Foundation Model for Time Series Data [21 Oct 2023](https://dl.acm.org/doi/abs/10.1145/3583780.3615155)
+* Toward a Foundation Model for Time Series Data [21 Oct 2023](https://dl.acm.org/doi/abs/10.1145/3583780.3615155) [code](https://sites.google.com/view/timeclr)
 * GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation [24 Nov 2023](https://arxiv.org/abs/2311.14332)
 * Harnessing LLMs for Temporal Data - A Study on Explainable Financial Time Series Forecasting [2023.emnlp-industry](https://aclanthology.org/2023.emnlp-industry.69.pdf)
-* 
+
+#### Multimodal include TS
+
+* Meta-Transformer: A Unified Framework for Multimodal Learning [20 Jul 2023](https://arxiv.org/abs/2307.10802) [Meta-Transformer](https://kxgong.github.io/meta_transformer/)
+* UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video,Point Cloud, Time-Series and Image Recognition [27 Nov 2023](https://arxiv.org/abs/2311.15599) [UniRepLKNet](https://invictus717.github.io/UniRepLKNet/)
+* ViT-Lens-2: Gateway to Omni-modal Intelligence [27 Nov 2023](https://arxiv.org/abs/2311.16081) [ViT-Lens-2](https://github.com/TencentARC/ViT-Lens)
 
 #### Patch methods
 
@@ -47,6 +51,7 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * BIOT: Cross-data Biosignal Learning in the Wild [NeurIPS23](https://arxiv.org/abs/2305.10351) [BIOT](https://github.com/ycq091044/BIOT)
 * Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI [submit ICLR 2024](https://openreview.net/forum?id=QzTpTRVtrP)
 * Practical intelligent diagnostic algorithm for wearable 12-lead ECG via self-supervised learning on large-scale dataset [Nature Communications 2023](https://www.nature.com/articles/s41467-023-39472-8)
+*  Large AI Models in Health Informatics: Applications, Challenges, and the Future [IEEE Journal of Biomedical and Health Informatics](https://arxiv.org/abs/2303.11568) [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
 
 ####  Foundation for other domains
 
