@@ -2,27 +2,36 @@
 
 Awesome resources of Large language models **(LLMs)** for time-series dataset. These resources concentrate on *self-supervised methods*, *GNN4TS*, *MLPer* and go beyond Transformer-based models. Whether you're a professional or data scientist, these tools and techniques can enhance your time-series data analysis with LLMs or foundation models.
 
-#### Single Time-series domain
+#### Single modality for TS
 
-* PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting [arxiv 20 Sep 2022](https://arxiv.org/abs/2210.08964) [PISA)](https://github.com/HaoUNSW/PISA)
-* One Fits All:Power General Time Series Analysis by Pretrained LM [arxiv 23 Feb 2023](https://arxiv.org/abs/2302.11939) [NeurIPS2023-One-Fits-All](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All) [no-officail reproduction](https://github.com/liaoyuhua/GPT-TS)
-* Frozen Language Model Helps ECG Zero-Shot Learning [22 Mar 2023](https://arxiv.org/abs/2303.12311)
-* FinGPT: Open-Source Financial Large Language Models [arxiv 9 Jun 2023](https://arxiv.org/abs/2306.06031)
-* Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting [arxiv 19 Jun 2023](https://arxiv.org/abs/2306.11025)
-* TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08241#:~:text=TEST%3A%20Text%20Prototype%20Aligned%20Embedding%20to%20Activate%20LLM's%20Ability%20for%20Time%20Series,-Chenxi%20Sun%2C%20Yaliang&text=This%20work%20summarizes%20two%20strategies,LLM%20to%20handle%20TS%20data.)
-* LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08469) 
-* The first step is the hardest: Pitfalls of Representing and Tokenizing Temporal Data for Large Language Models [arxiv 12 Sep 2023](https://arxiv.org/abs/2309.06236)
-* Time-LLM: Time Series Forecasting by Reprogramming Large Language Models [arxiv 3 Oct 2023](https://arxiv.org/abs/2310.01728)
-* TimeGPT-1 [arxiv 2023 *5 Oct 2023*](https://arxiv.org/abs/2310.03589)
-* TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting [ arxiv 8 Oct 2023](https://arxiv.org/abs/2310.04948) 
-* Pushing the Limits of Pre-training for Time Series Forecasting in the CloudOps Domain [arxiv 2023 8 Oct 2023](https://arxiv.org/abs/2310.05063)
-* Large Language Models Are Zero-Shot Time Series Forecasters [ NeurIPS 2023 11 Oct 2023](https://arxiv.org/abs/2310.07820)  [llmtime](https://github.com/ngruver/llmtime)
-* Lag-Llama: Towards Foundation Models for Time Series Forecasting [arxiv 12 Oct 2023](https://arxiv.org/abs/2310.08278)  [Lag-Llama](https://github.com/kashif/pytorch-transformer-ts)
-* iTransformer: Inverted Transformers Are Effective for Time Series Forecasting [arxiv 13  Oct 2023 ]() [iTransformer]([GitHub - thuml/iTransformer: This is the official implementation for "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting".](https://github.com/thuml/iTransformer))
-* GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation [24 Nov 2023](https://arxiv.org/abs/2311.14332)
-* Harnessing LLMs for Temporal Data - A Study on Explainable Financial Time Series Forecasting [2023.emnlp-industry](https://aclanthology.org/2023.emnlp-industry.69.pdf)
+* Forecasting
+  * PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting [arxiv 20 Sep 2022](https://arxiv.org/abs/2210.08964) [PISA)](https://github.com/HaoUNSW/PISA)
+  * Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting [arxiv 19 Jun 2023](https://arxiv.org/abs/2306.11025)
+  * Time-LLM: Time Series Forecasting by Reprogramming Large Language Models [arxiv 3 Oct 2023](https://arxiv.org/abs/2310.01728)
+  * TimeGPT-1 [arxiv 2023 *5 Oct 2023*](https://arxiv.org/abs/2310.03589)
+  * TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting [ arxiv 8 Oct 2023](https://arxiv.org/abs/2310.04948) 
+  * Pushing the Limits of Pre-training for Time Series Forecasting in the CloudOps Domain [arxiv 2023 8 Oct 2023](https://arxiv.org/abs/2310.05063)
+  * Large Language Models Are Zero-Shot Time Series Forecasters [ NeurIPS 2023 11 Oct 2023](https://arxiv.org/abs/2310.07820)  [llmtime](https://github.com/ngruver/llmtime)
+  * Lag-Llama: Towards Foundation Models for Time Series Forecasting [arxiv 12 Oct 2023](https://arxiv.org/abs/2310.08278)  [Lag-Llama](https://github.com/kashif/pytorch-transformer-ts)
+  * iTransformer: Inverted Transformers Are Effective for Time Series Forecasting [arxiv 13  Oct 2023 ]() [iTransformer]([GitHub - thuml/iTransformer: This is the official implementation for "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting".](https://github.com/thuml/iTransformer))
+  * Harnessing LLMs for Temporal Data - A Study on Explainable Financial Time Series Forecasting [2023.emnlp-industry](https://aclanthology.org/2023.emnlp-industry.69.pdf)
+  * LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08469) 
 
-#### Multimodal include TS
+* Imputation 
+  * GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation [24 Nov 2023](https://arxiv.org/abs/2311.14332)
+
+* One Fits all
+  * One Fits All:Power General Time Series Analysis by Pretrained LM [arxiv 23 Feb 2023](https://arxiv.org/abs/2302.11939) [NeurIPS2023-One-Fits-All](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All) [no-officail reproduction](https://github.com/liaoyuhua/GPT-TS)
+  * TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08241#:~:text=TEST%3A%20Text%20Prototype%20Aligned%20Embedding%20to%20Activate%20LLM's%20Ability%20for%20Time%20Series,-Chenxi%20Sun%2C%20Yaliang&text=This%20work%20summarizes%20two%20strategies,LLM%20to%20handle%20TS%20data.)
+
+* Multimodal
+  * Frozen Language Model Helps ECG Zero-Shot Learning [22 Mar 2023](https://arxiv.org/abs/2303.12311)
+  * FinGPT: Open-Source Financial Large Language Models [arxiv 9 Jun 2023](https://arxiv.org/abs/2306.06031) [AI4Finance-Foundation/FinNLP](https://github.com/AI4Finance-Foundation/FinNLP)
+  * FinVis-GPT: A Multimodal Large Language Model for Financial Chart Analysis [ (FinLLM 2023)@IJCAI 2023](https://arxiv.org/abs/2308.01430)
+  * Insight Miner: A Time Series Analysis Dataset for Cross-Domain Alignment with Natural Language [NeurIPS2023-AI4Science Poster](https://openreview.net/forum?id=E1khscdUdH)
+
+
+#### Multimodal LM include TS
 
 * Meta-Transformer: A Unified Framework for Multimodal Learning [20 Jul 2023](https://arxiv.org/abs/2307.10802) [Meta-Transformer](https://kxgong.github.io/meta_transformer/)
 * UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video,Point Cloud, Time-Series and Image Recognition [27 Nov 2023](https://arxiv.org/abs/2311.15599) [UniRepLKNet](https://invictus717.github.io/UniRepLKNet/)
@@ -34,6 +43,7 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * A Time Series is Worth 64 Words: Long-term Forecasting with Transformers [ICLR 2023 *27 Nov 2022*](https://arxiv.org/abs/2211.14730) [PatchTST](https://github.com/yuqinie98/PatchTST)
 * PatchMixer: A Patch-Mixing Architecture for Long-Term Time Series Forecasting [arxiv  *1 Oct 2023*](https://arxiv.org/abs/2310.00655) [PatchMixer](https://github.com/Zeying-Gong/PatchMixer) [Chinese blog](https://mp.weixin.qq.com/s/gfAqL7bosdc0mxz8SziBbQ)
 * Learning to Embed Time Series Patches Independently [NeurIPS Workshop on Self-Supervised Learning: Theory and Practice, 2023](https://arxiv.org/abs/2312.16427) [pits](https://github.com/seunghan96/pits)
+* The first step is the hardest: Pitfalls of Representing and Tokenizing Temporal Data for Large Language Models [arxiv 12 Sep 2023](https://arxiv.org/abs/2309.06236)
 
 #### Mixture-of-Experts (MoE)
 
@@ -90,6 +100,12 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * [xiyuanzh/time-series-papers](https://github.com/xiyuanzh/time-series-papers)
 * [vincentlux/Awesome-Multimodal-LLM](https://github.com/vincentlux/Awesome-Multimodal-LLM)
 * [yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)
+* Foundation-Models
+  * [uncbiag/Awesome-Foundation-Models](https://github.com/uncbiag/Awesome-Foundation-Models)
+  * [UbiquitousLearning/Efficient_Foundation_Model_Survey](https://github.com/ubiquitouslearning/efficient_foundation_model_survey)
+  * [zhanghm1995/Forge_VFM4AD](https://github.com/zhanghm1995/Forge_VFM4AD)
+
+* 
 
 
 #### Blog list
