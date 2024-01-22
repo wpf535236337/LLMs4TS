@@ -16,7 +16,8 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
   * iTransformer: Inverted Transformers Are Effective for Time Series Forecasting [arxiv 13  Oct 2023 ]() [iTransformer]([GitHub - thuml/iTransformer: This is the official implementation for "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting".](https://github.com/thuml/iTransformer))
   * Harnessing LLMs for Temporal Data - A Study on Explainable Financial Time Series Forecasting [2023.emnlp-industry](https://aclanthology.org/2023.emnlp-industry.69.pdf)
   * LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08469) 
-
+  * UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting [15 Oct 2023](https://arxiv.org/abs/2310.09751)
+  
 * Imputation 
   * GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation [24 Nov 2023](https://arxiv.org/abs/2311.14332)
 
@@ -44,6 +45,8 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * PatchMixer: A Patch-Mixing Architecture for Long-Term Time Series Forecasting [arxiv  *1 Oct 2023*](https://arxiv.org/abs/2310.00655) [PatchMixer](https://github.com/Zeying-Gong/PatchMixer) [Chinese blog](https://mp.weixin.qq.com/s/gfAqL7bosdc0mxz8SziBbQ)
 * Learning to Embed Time Series Patches Independently [NeurIPS Workshop on Self-Supervised Learning: Theory and Practice, 2023](https://arxiv.org/abs/2312.16427) [pits](https://github.com/seunghan96/pits)
 * The first step is the hardest: Pitfalls of Representing and Tokenizing Temporal Data for Large Language Models [arxiv 12 Sep 2023](https://arxiv.org/abs/2309.06236)
+* Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot
+  Forecasting of Multivariate Time Series []()
 
 #### Mixture-of-Experts (MoE)
 
@@ -67,7 +70,7 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * Foundation Models for *Weather and Climate Data* Understanding: A Comprehensive Survey [5 Dec 2023](https://arxiv.org/abs/2312.03014)
 * 
 
-#### SSL4TS
+#### Survey4TS
 
 * Self-supervised Contrastive Representation Learning for Semi-supervised Time-Series Classification [TPAMI 13 Aug 2022](https://arxiv.org/abs/2208.06616) [CA-TCC](https://github.com/emadeldeen24/CA-TCC)
 * Unsupervised Representation Learning for Time Series: A Review [3 Aug 2023](https://arxiv.org/abs/2308.01578) [ULTS](https://github.com/mqwfrog/ULTS)
@@ -80,7 +83,7 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook [arxiv 16 Oct 2023](https://arxiv.org/abs/2310.10196) [Awesome-TimeSeries-SpatioTemporal-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)
 * Toward a Foundation Model for Time Series Data [21 Oct 2023](https://dl.acm.org/doi/abs/10.1145/3583780.3615155) [code](https://sites.google.com/view/timeclr)
 * Universal Time-Series Representation Learning: A Survey [8 Jan 2024](https://arxiv.org/abs/2401.03717) [itouchz/awesome-deep-time-series-representations](https://github.com/itouchz/awesome-deep-time-series-representations)
-* 
+* A Review for Pre-Trained Transformer-Based Time Series Forecasting Models  [ITMS2023](https://ieeexplore.ieee.org/abstract/document/10317721)
 
 #### Multimodal TS
 
