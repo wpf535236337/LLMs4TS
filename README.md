@@ -38,7 +38,7 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video,Point Cloud, Time-Series and Image Recognition [27 Nov 2023](https://arxiv.org/abs/2311.15599) [UniRepLKNet](https://invictus717.github.io/UniRepLKNet/)
 * ViT-Lens-2: Gateway to Omni-modal Intelligence [27 Nov 2023](https://arxiv.org/abs/2311.16081) [ViT-Lens-2](https://github.com/TencentARC/ViT-Lens)
 
-#### Patch methods
+#### Patch && Tokenizers methods
 
 * Patches Are All You Need? [*ICLR 24 Jan 2022*](https://arxiv.org/abs/2201.09792)  [convmixer](https://github.com/locuslab/convmixer)
 * A Time Series is Worth 64 Words: Long-term Forecasting with Transformers [ICLR 2023 *27 Nov 2022*](https://arxiv.org/abs/2211.14730) [PatchTST](https://github.com/yuqinie98/PatchTST)
@@ -46,13 +46,15 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * Learning to Embed Time Series Patches Independently [NeurIPS Workshop on Self-Supervised Learning: Theory and Practice, 2023](https://arxiv.org/abs/2312.16427) [pits](https://github.com/seunghan96/pits)
 * The first step is the hardest: Pitfalls of Representing and Tokenizing Temporal Data for Large Language Models [arxiv 12 Sep 2023](https://arxiv.org/abs/2309.06236)
 * Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot
-  Forecasting of Multivariate Time Series []()
+  Forecasting of Multivariate Time Series [8 Jan 2024](https://arxiv.org/abs/2401.03955)
+* What Makes for Good Visual Tokenizers for Large Language Models? [20 May 2023](https://arxiv.org/abs/2305.12223) [GVT](https://github.com/TencentARC/GVT)
+* SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models [ICLR2024](https://arxiv.org/abs/2308.16692) [SpeechTokenizer](https://0nutation.github.io/SpeechTokenizer.github.io/)
 
 #### Mixture-of-Experts (MoE)
 
 * Mixture-of-Linear-Experts for Long-term Time Series Forecasting [11 Dec 2023](https://arxiv.org/abs/2312.06786)
 * Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation [19 Dec 2023](https://arxiv.org/abs/2312.12276)
-* 
+* A Review of Sparse Expert Models in Deep Learning [4 Sep 2022](https://arxiv.org/abs/2209.01667)
 
 #### Biosignals dataset
 
@@ -68,6 +70,12 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 ####  Foundation for other domains
 
 * Foundation Models for *Weather and Climate Data* Understanding: A Comprehensive Survey [5 Dec 2023](https://arxiv.org/abs/2312.03014)
+
+#### Multimodal TS
+
+* Frequency-Aware Masked Autoencoders for Multimodal Pretraining on Biosignals [12 Sep 2023 ](https://arxiv.org/abs/2309.05927)
+* FOCAL: Contrastive Learning for Multimodal Time-Series Sensing Signals in Factorized Orthogonal Latent Space [*NeurIPS'23* 30 Oct 2023](https://arxiv.org/abs/2310.20071) [focal](https://github.com/tomoyoshki/focal)
+* Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on A Novel Dataset with Continuous Labels [ACMMM 27 October 2023](https://dl.acm.org/doi/10.1145/3581783.3613797)
 * 
 
 #### Survey4TS
@@ -84,13 +92,6 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * Toward a Foundation Model for Time Series Data [21 Oct 2023](https://dl.acm.org/doi/abs/10.1145/3583780.3615155) [code](https://sites.google.com/view/timeclr)
 * Universal Time-Series Representation Learning: A Survey [8 Jan 2024](https://arxiv.org/abs/2401.03717) [itouchz/awesome-deep-time-series-representations](https://github.com/itouchz/awesome-deep-time-series-representations)
 * A Review for Pre-Trained Transformer-Based Time Series Forecasting Models  [ITMS2023](https://ieeexplore.ieee.org/abstract/document/10317721)
-
-#### Multimodal TS
-
-* Frequency-Aware Masked Autoencoders for Multimodal Pretraining on Biosignals [12 Sep 2023 ](https://arxiv.org/abs/2309.05927)
-* FOCAL: Contrastive Learning for Multimodal Time-Series Sensing Signals in Factorized Orthogonal Latent Space [*NeurIPS'23* 30 Oct 2023](https://arxiv.org/abs/2310.20071) [focal](https://github.com/tomoyoshki/focal)
-* Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on A Novel Dataset with Continuous Labels [ACMMM 27 October 2023](https://dl.acm.org/doi/10.1145/3581783.3613797)
-* 
 
 #### Project
 
@@ -126,9 +127,3 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 #### Others
 
 * 
-* 
-
-
-
-
-
