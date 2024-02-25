@@ -17,9 +17,14 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
   * Harnessing LLMs for Temporal Data - A Study on Explainable Financial Time Series Forecasting [2023.emnlp-industry](https://aclanthology.org/2023.emnlp-industry.69.pdf)
   * LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08469) 
   * UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting [15 Oct 2023](https://arxiv.org/abs/2310.09751)
-  
+  * AutoTimes: Autoregressive Time Series Forecasters via Large Language Models [4 Feb 2024](https://arxiv.org/abs/2402.02370)
+
 * Imputation 
   * GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation [24 Nov 2023](https://arxiv.org/abs/2311.14332)
+
+* Spatio-temporal prediction
+  * Spatio-Temporal Graph Learning with Large Language Model [20 Sept 2023](https://openreview.net/forum?id=QUkcfqa6GX)
+  * How Can Large Language Models Understand Spatial-Temporal Data? [25 Jan 2024](https://arxiv.org/abs/2401.14192)
 
 * One Fits all
   * One Fits All:Power General Time Series Analysis by Pretrained LM [arxiv 23 Feb 2023](https://arxiv.org/abs/2302.11939) [NeurIPS2023-One-Fits-All](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All) [no-officail reproduction](https://github.com/liaoyuhua/GPT-TS)
@@ -66,10 +71,16 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI [submit ICLR 2024](https://openreview.net/forum?id=QzTpTRVtrP)
 * Practical intelligent diagnostic algorithm for wearable 12-lead ECG via self-supervised learning on large-scale dataset [Nature Communications 2023](https://www.nature.com/articles/s41467-023-39472-8)
 *  Large AI Models in Health Informatics: Applications, Challenges, and the Future [IEEE Journal of Biomedical and Health Informatics](https://arxiv.org/abs/2303.11568) [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
+*  Data science opportunities of large language models for neuroscience and biomedicine [Neuron](https://www.sciencedirect.com/science/article/pii/S0896627324000424)
+* BioSignal Copilot: Leveraging the power of LLMs in drafting reports
+  for biomedical signals [July 06, 2023](https://www.medrxiv.org/content/10.1101/2023.06.28.23291916v1)
+* Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data [12 Jan 2024](https://arxiv.org/abs/2401.06866)
 
 ####  Foundation for other domains
 
 * Foundation Models for *Weather and Climate Data* Understanding: A Comprehensive Survey [5 Dec 2023](https://arxiv.org/abs/2312.03014)
+* [Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models](https://arxiv.org/abs/2402.01749 ) [usail-hkust/Awesome-Urban-Foundation-Models](https://github.com/usail-hkust/Awesome-Urban-Foundation-Models)
+* 
 
 #### Multimodal TS
 
@@ -92,6 +103,9 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * Toward a Foundation Model for Time Series Data [21 Oct 2023](https://dl.acm.org/doi/abs/10.1145/3583780.3615155) [code](https://sites.google.com/view/timeclr)
 * Universal Time-Series Representation Learning: A Survey [8 Jan 2024](https://arxiv.org/abs/2401.03717) [itouchz/awesome-deep-time-series-representations](https://github.com/itouchz/awesome-deep-time-series-representations)
 * A Review for Pre-Trained Transformer-Based Time Series Forecasting Models  [ITMS2023](https://ieeexplore.ieee.org/abstract/document/10317721)
+* Large Language Models for Time Series: A Survey [2 Feb 2024](https://arxiv.org/abs/2402.01801) [xiyuanzh/awesome-llm-time-series](https://github.com/xiyuanzh/awesome-llm-time-series)
+* Position Paper:What Can Large Language Models Tell Us about Time Series Analysis [5 Feb 2024](https://arxiv.org/abs/2402.02713)
+* A Survey of Deep Learning and Foundation Models for Time Series Forecasting [25 Jan 2024](https://arxiv.org/abs/2401.13912)
 
 #### Project
 
@@ -104,11 +118,14 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * [xiyuanzh/time-series-papers](https://github.com/xiyuanzh/time-series-papers)
 * [vincentlux/Awesome-Multimodal-LLM](https://github.com/vincentlux/Awesome-Multimodal-LLM)
 * [yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)
+* [SitaoLuan/LLM4Graph](https://github.com/SitaoLuan/LLM4Graph)
 * Foundation-Models
   * [uncbiag/Awesome-Foundation-Models](https://github.com/uncbiag/Awesome-Foundation-Models)
   * [UbiquitousLearning/Efficient_Foundation_Model_Survey](https://github.com/ubiquitouslearning/efficient_foundation_model_survey)
   * [zhanghm1995/Forge_VFM4AD](https://github.com/zhanghm1995/Forge_VFM4AD)
-
+  * [Yangyi-Chen/Multimodal-AND-Large-Language-Models](https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models)
+  * [MM-LLMs: Recent Advances in MultiModal Large Language Models](https://mm-llms.github.io/)
+  * [Learning on Multimodal Graphs: A Survey](https://arxiv.org/abs/2402.05322)
 * 
 
 
@@ -122,7 +139,11 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 #### Laboratory
 
 * [Deep Learning for Mobile Health Lab](https://github.com/DL4mHealth)
-* 
+
+### Course
+
+* [Time Series Analysis from nan jing university](https://www.lamda.nju.edu.cn/yehj/TSA2023/) 
+* [Time-Series Analysis from intel company ](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/course-time-series-analysis.html)
 
 #### Others
 
