@@ -18,6 +18,10 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
   * LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08469) 
   * UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting [15 Oct 2023](https://arxiv.org/abs/2310.09751)
   * AutoTimes: Autoregressive Time Series Forecasters via Large Language Models [4 Feb 2024](https://arxiv.org/abs/2402.02370)
+  * LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting [25 Feb 2024](https://arxiv.org/abs/2402.16132v1) [LSTPrompt](https://github.com/AdityaLab/lstprompt)
+
+* Anomaly Detection
+  * Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection [26 Jan 2024](https://arxiv.org/abs/2401.15123)
 
 * Imputation 
   * GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation [24 Nov 2023](https://arxiv.org/abs/2311.14332)
@@ -60,6 +64,7 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * Mixture-of-Linear-Experts for Long-term Time Series Forecasting [11 Dec 2023](https://arxiv.org/abs/2312.06786)
 * Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation [19 Dec 2023](https://arxiv.org/abs/2312.12276)
 * A Review of Sparse Expert Models in Deep Learning [4 Sep 2022](https://arxiv.org/abs/2209.01667)
+* MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts [8 Jan 2024](https://arxiv.org/abs/2401.04081) [](https://github.com/llm-random/llm-random)
 
 #### Biosignals dataset
 
@@ -75,6 +80,7 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * BioSignal Copilot: Leveraging the power of LLMs in drafting reports
   for biomedical signals [July 06, 2023](https://www.medrxiv.org/content/10.1101/2023.06.28.23291916v1)
 * Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data [12 Jan 2024](https://arxiv.org/abs/2401.06866)
+* Self-supervised Learning for Electroencephalogram: A Systematic Survey [9 Jan 2024](https://arxiv.org/abs/2401.05446)
 
 ####  Foundation for other domains
 
@@ -126,6 +132,7 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
   * [Yangyi-Chen/Multimodal-AND-Large-Language-Models](https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models)
   * [MM-LLMs: Recent Advances in MultiModal Large Language Models](https://mm-llms.github.io/)
   * [Learning on Multimodal Graphs: A Survey](https://arxiv.org/abs/2402.05322)
+  * [The (R)Evolution of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2402.12451)
 * 
 
 
