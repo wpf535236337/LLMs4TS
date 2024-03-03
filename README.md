@@ -19,6 +19,8 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
   * UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting [15 Oct 2023](https://arxiv.org/abs/2310.09751)
   * AutoTimes: Autoregressive Time Series Forecasters via Large Language Models [4 Feb 2024](https://arxiv.org/abs/2402.02370)
   * LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting [25 Feb 2024](https://arxiv.org/abs/2402.16132v1) [LSTPrompt](https://github.com/AdityaLab/lstprompt)
+  * Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning [7 Feb 2024](https://arxiv.org/abs/2402.04852)
+  * Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities [16 Feb 2024](https://arxiv.org/abs/2402.10835)
 
 * Anomaly Detection
   * Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection [26 Jan 2024](https://arxiv.org/abs/2401.15123)
@@ -33,6 +35,7 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * One Fits all
   * One Fits All:Power General Time Series Analysis by Pretrained LM [arxiv 23 Feb 2023](https://arxiv.org/abs/2302.11939) [NeurIPS2023-One-Fits-All](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All) [no-officail reproduction](https://github.com/liaoyuhua/GPT-TS)
   * TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08241#:~:text=TEST%3A%20Text%20Prototype%20Aligned%20Embedding%20to%20Activate%20LLM's%20Ability%20for%20Time%20Series,-Chenxi%20Sun%2C%20Yaliang&text=This%20work%20summarizes%20two%20strategies,LLM%20to%20handle%20TS%20data.)
+  * Timer: Transformers for Time Series Analysis at Scale [4 Feb 2024](https://arxiv.org/abs/2402.02368)
 
 * Multimodal
   * Frozen Language Model Helps ECG Zero-Shot Learning [22 Mar 2023](https://arxiv.org/abs/2303.12311)
@@ -112,6 +115,7 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 * Large Language Models for Time Series: A Survey [2 Feb 2024](https://arxiv.org/abs/2402.01801) [xiyuanzh/awesome-llm-time-series](https://github.com/xiyuanzh/awesome-llm-time-series)
 * Position Paper:What Can Large Language Models Tell Us about Time Series Analysis [5 Feb 2024](https://arxiv.org/abs/2402.02713)
 * A Survey of Deep Learning and Foundation Models for Time Series Forecasting [25 Jan 2024](https://arxiv.org/abs/2401.13912)
+* Empowering Time Series Analysis with Large Language Models: A Survey [5 Feb 2024](https://arxiv.org/abs/2402.03182)
 
 #### Project
 
