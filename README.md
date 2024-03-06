@@ -1,8 +1,8 @@
-# LLMs4TS
+# AI4TS
 
-Awesome resources of Large language models **(LLMs)** for time-series dataset. These resources concentrate on *self-supervised methods*, *GNN4TS*, *MLPer* and go beyond Transformer-based models. Whether you're a professional or data scientist, these tools and techniques can enhance your time-series data analysis with LLMs or foundation models.
+Awesome resources focus on the application of cutting-edge AI technologies for time-series analysis (**AI4TS **). They delve into advanced topics such as self-supervised learning (**SSL**), Graph Neural Networks for Time Series (**GNN4TS**), Large Language Models for Time Series (**LLM4TS**), **Diffusion** models, Mixture-of-Experts (**MoE**) architectures and **Mamba** models, among others. These resources span various domains, including healthcare, finance, and traffic, offering a comprehensive view of the field. In addition, they feature top-notch tutorials, courses, and workshops from prestigious conferences, hosted by globally renowned scholars and research teams. Whether you're a professional, data scientist, or researcher, these tools and techniques can significantly enhance your time-series data analysis capabilities, providing a clear roadmap for your studies.
 
-#### Single modality for TS
+#### LLM4TS
 
 * Forecasting
   * PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting [arxiv 20 Sep 2022](https://arxiv.org/abs/2210.08964) [PISA)](https://github.com/HaoUNSW/PISA)
@@ -24,7 +24,8 @@ Awesome resources of Large language models **(LLMs)** for time-series dataset. T
 
 * Anomaly Detection
   * Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection [26 Jan 2024](https://arxiv.org/abs/2401.15123)
-
+  * Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review [15 Feb 2024](https://arxiv.org/abs/2402.10350)
+  
 * Imputation 
   * GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation [24 Nov 2023](https://arxiv.org/abs/2311.14332)
 
