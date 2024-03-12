@@ -118,6 +118,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * Position Paper:What Can Large Language Models Tell Us about Time Series Analysis [5 Feb 2024](https://arxiv.org/abs/2402.02713)
 * A Survey of Deep Learning and Foundation Models for Time Series Forecasting [25 Jan 2024](https://arxiv.org/abs/2401.13912)
 * Empowering Time Series Analysis with Large Language Models: A Survey [5 Feb 2024](https://arxiv.org/abs/2402.03182)
+* Deep Learning for Time Series Classification and Extrinsic Regression: A Current Survey [ACM Computing Surveys, 2023](https://dl.acm.org/doi/abs/10.1145/3649448)
 
 #### Project
 
