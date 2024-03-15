@@ -21,7 +21,8 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting [25 Feb 2024](https://arxiv.org/abs/2402.16132v1) [LSTPrompt](https://github.com/AdityaLab/lstprompt)
   * Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning [7 Feb 2024](https://arxiv.org/abs/2402.04852)
   * Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities [16 Feb 2024](https://arxiv.org/abs/2402.10835)
-
+  * Chronos: Learning the Language of Time Series [12 Mar 2024](https://arxiv.org/abs/2403.07815) [chronos](https://github.com/amazon-science/chronos-forecasting)
+  
 * Anomaly Detection
   * Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection [26 Jan 2024](https://arxiv.org/abs/2401.15123)
   * Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review [15 Feb 2024](https://arxiv.org/abs/2402.10350)
@@ -32,7 +33,10 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * Spatio-temporal prediction
   * Spatio-Temporal Graph Learning with Large Language Model [20 Sept 2023](https://openreview.net/forum?id=QUkcfqa6GX)
   * How Can Large Language Models Understand Spatial-Temporal Data? [25 Jan 2024](https://arxiv.org/abs/2401.14192)
-
+  * UrbanGPT: Spatio-Temporal Large Language Models [25 Feb 2024](https://arxiv.org/abs/2403.00813)
+  * TPLLM: A Traffic Prediction Framework Based on Pretrained Large Language Models [ 4 Mar 2024](https://arxiv.org/abs/2403.02221v1)
+  * 
+  
 * One Fits all
   * One Fits All:Power General Time Series Analysis by Pretrained LM [arxiv 23 Feb 2023](https://arxiv.org/abs/2302.11939) [NeurIPS2023-One-Fits-All](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All) [no-officail reproduction](https://github.com/liaoyuhua/GPT-TS)
   * TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08241#:~:text=TEST%3A%20Text%20Prototype%20Aligned%20Embedding%20to%20Activate%20LLM's%20Ability%20for%20Time%20Series,-Chenxi%20Sun%2C%20Yaliang&text=This%20work%20summarizes%20two%20strategies,LLM%20to%20handle%20TS%20data.)
@@ -148,11 +152,15 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * [Anomaly Detection in Time Series using ChatGPT]( https://medium.com/@sztistvan/anomaly-detection-in-time-series-using-chatgpt-3fc48f958c88)
 * [Change Point Detection in Time Series using ChatGPT](https://medium.com/@sztistvan/change-point-detection-in-time-series-using-chatgpt-22cc9172a130)
 * [Huggingface 镜像站](https://hf-mirror.com/)
+* [国内外高校和企业里时空数据挖掘相关的团队有哪些？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/617528629/answer/3177883285)
 * 
 
 #### Laboratory
 
 * [Deep Learning for Mobile Health Lab](https://github.com/DL4mHealth)
+* [Mingsheng Long - Tsinghua University](http://ise.thss.tsinghua.edu.cn/~mlong/)
+* [Yang Yang - Zhejiang University](http://yangy.org/)
+* 
 
 ### Course
 
