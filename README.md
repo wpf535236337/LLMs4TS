@@ -22,11 +22,12 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning [7 Feb 2024](https://arxiv.org/abs/2402.04852)
   * Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities [16 Feb 2024](https://arxiv.org/abs/2402.10835)
   * Chronos: Learning the Language of Time Series [12 Mar 2024](https://arxiv.org/abs/2403.07815) [chronos](https://github.com/amazon-science/chronos-forecasting)
-  
+
+  * S^2 IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting [9 Mar 2024](https://arxiv.org/abs/2403.05798)
+
 * Anomaly Detection
   * Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection [26 Jan 2024](https://arxiv.org/abs/2401.15123)
   * Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review [15 Feb 2024](https://arxiv.org/abs/2402.10350)
-  
 * Imputation 
   * GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation [24 Nov 2023](https://arxiv.org/abs/2311.14332)
 
@@ -36,13 +37,13 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * UrbanGPT: Spatio-Temporal Large Language Models [25 Feb 2024](https://arxiv.org/abs/2403.00813)
   * TPLLM: A Traffic Prediction Framework Based on Pretrained Large Language Models [ 4 Mar 2024](https://arxiv.org/abs/2403.02221v1)
   * 
-  
+
 * One Fits all
   * One Fits All:Power General Time Series Analysis by Pretrained LM [arxiv 23 Feb 2023](https://arxiv.org/abs/2302.11939) [NeurIPS2023-One-Fits-All](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All) [no-officail reproduction](https://github.com/liaoyuhua/GPT-TS)
   * TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08241#:~:text=TEST%3A%20Text%20Prototype%20Aligned%20Embedding%20to%20Activate%20LLM's%20Ability%20for%20Time%20Series,-Chenxi%20Sun%2C%20Yaliang&text=This%20work%20summarizes%20two%20strategies,LLM%20to%20handle%20TS%20data.)
   * Timer: Transformers for Time Series Analysis at Scale [4 Feb 2024](https://arxiv.org/abs/2402.02368)
   * UniTS: Building a Unified Time Series Model  [29 Feb 2024](https://arxiv.org/abs/2403.00131v1) [UniTS](https://github.com/mims-harvard/UniTS)
-  
+
 * Multimodal
   * Frozen Language Model Helps ECG Zero-Shot Learning [22 Mar 2023](https://arxiv.org/abs/2303.12311)
   * FinGPT: Open-Source Financial Large Language Models [arxiv 9 Jun 2023](https://arxiv.org/abs/2306.06031) [AI4Finance-Foundation/FinNLP](https://github.com/AI4Finance-Foundation/FinNLP)
@@ -153,7 +154,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * [Change Point Detection in Time Series using ChatGPT](https://medium.com/@sztistvan/change-point-detection-in-time-series-using-chatgpt-22cc9172a130)
 * [Huggingface 镜像站](https://hf-mirror.com/)
 * [国内外高校和企业里时空数据挖掘相关的团队有哪些？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/617528629/answer/3177883285)
-* 
+* [北京交通大学教师名录 (bjtu.edu.cn)](http://faculty.bjtu.edu.cn/9685/)
 
 #### Laboratory
 
