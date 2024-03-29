@@ -20,31 +20,25 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * AutoTimes: Autoregressive Time Series Forecasters via Large Language Models [4 Feb 2024](https://arxiv.org/abs/2402.02370)
   * LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting [25 Feb 2024](https://arxiv.org/abs/2402.16132v1) [LSTPrompt](https://github.com/AdityaLab/lstprompt)
   * Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning [7 Feb 2024](https://arxiv.org/abs/2402.04852)
-  * Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities [16 Feb 2024](https://arxiv.org/abs/2402.10835)
   * Chronos: Learning the Language of Time Series [12 Mar 2024](https://arxiv.org/abs/2403.07815) [chronos](https://github.com/amazon-science/chronos-forecasting)
-
   * S^2 IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting [9 Mar 2024](https://arxiv.org/abs/2403.05798)
-
 * Anomaly Detection
   * Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection [26 Jan 2024](https://arxiv.org/abs/2401.15123) [AnomalyLLM](https://github.com/fly-orange/AnomalyLLM/tree/main)
   * Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review [15 Feb 2024](https://arxiv.org/abs/2402.10350)
 * Imputation 
   * GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation [24 Nov 2023](https://arxiv.org/abs/2311.14332)
-
 * Spatio-temporal prediction
   * Spatio-Temporal Graph Learning with Large Language Model [20 Sept 2023](https://openreview.net/forum?id=QUkcfqa6GX)
   * How Can Large Language Models Understand Spatial-Temporal Data? [25 Jan 2024](https://arxiv.org/abs/2401.14192)
   * UrbanGPT: Spatio-Temporal Large Language Models [25 Feb 2024](https://arxiv.org/abs/2403.00813)
   * TPLLM: A Traffic Prediction Framework Based on Pretrained Large Language Models [ 4 Mar 2024](https://arxiv.org/abs/2403.02221v1)
   * Spatial-Temporal Large Language Model for Traffic Prediction [18 Jan 2024](https://arxiv.org/abs/2401.10134)
-
 * One Fits all
   * One Fits All:Power General Time Series Analysis by Pretrained LM [arxiv 23 Feb 2023](https://arxiv.org/abs/2302.11939) [NeurIPS2023-One-Fits-All](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All) [no-officail reproduction](https://github.com/liaoyuhua/GPT-TS)
   * TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08241#:~:text=TEST%3A%20Text%20Prototype%20Aligned%20Embedding%20to%20Activate%20LLM's%20Ability%20for%20Time%20Series,-Chenxi%20Sun%2C%20Yaliang&text=This%20work%20summarizes%20two%20strategies,LLM%20to%20handle%20TS%20data.) [TEST](https://github.com/SCXsunchenxi/TEST)
   * Timer: Transformers for Time Series Analysis at Scale [4 Feb 2024](https://arxiv.org/abs/2402.02368)
   * UniTS: Building a Unified Time Series Model  [29 Feb 2024](https://arxiv.org/abs/2403.00131v1) [UniTS](https://github.com/mims-harvard/UniTS)
   * MOMENT: A Family of Open Time-series Foundation Models [6 Feb 2024](https://arxiv.org/abs/2402.03885) [MOMENT](https://anonymous.4open.science/r/BETT-773F/README.md)
-  
 * Multimodal
   * Frozen Language Model Helps ECG Zero-Shot Learning [22 Mar 2023](https://arxiv.org/abs/2303.12311)
   * FinGPT: Open-Source Financial Large Language Models [arxiv 9 Jun 2023](https://arxiv.org/abs/2306.06031) [AI4Finance-Foundation/FinNLP](https://github.com/AI4Finance-Foundation/FinNLP)
@@ -81,6 +75,10 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 
 ### Mamba
 
+* Is Mamba Effective for Time Series Forecasting? [17 Mar 2024](https://arxiv.org/abs/2403.11144) [wzhwzhwzh0921/S-D-Mamba](https://github.com/wzhwzhwzh0921/S-D-Mamba)
+* TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting [14 Mar 2024](https://arxiv.org/abs/2403.09898) [Atik-Ahamed/TimeMachine](https://github.com/Atik-Ahamed/TimeMachine)
+* STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model [19 Mar 2024](https://arxiv.org/abs/2403.12418)
+* SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series [22 Mar 2024](https://arxiv.org/abs/2403.15360) [badripatro/simba](https://github.com/badripatro/Simba)
 * 
 
 #### Biosignals dataset
@@ -129,10 +127,11 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * Toward a Foundation Model for Time Series Data [21 Oct 2023](https://dl.acm.org/doi/abs/10.1145/3583780.3615155) [code](https://sites.google.com/view/timeclr)
 * Universal Time-Series Representation Learning: A Survey [8 Jan 2024](https://arxiv.org/abs/2401.03717) [itouchz/awesome-deep-time-series-representations](https://github.com/itouchz/awesome-deep-time-series-representations)
 * A Review for Pre-Trained Transformer-Based Time Series Forecasting Models  [ITMS2023](https://ieeexplore.ieee.org/abstract/document/10317721)
+* A Survey of Deep Learning and Foundation Models for Time Series Forecasting [25 Jan 2024](https://arxiv.org/abs/2401.13912)
 * Large Language Models for Time Series: A Survey [2 Feb 2024](https://arxiv.org/abs/2402.01801) [xiyuanzh/awesome-llm-time-series](https://github.com/xiyuanzh/awesome-llm-time-series)
 * Position Paper:What Can Large Language Models Tell Us about Time Series Analysis [5 Feb 2024](https://arxiv.org/abs/2402.02713)
-* A Survey of Deep Learning and Foundation Models for Time Series Forecasting [25 Jan 2024](https://arxiv.org/abs/2401.13912)
 * Empowering Time Series Analysis with Large Language Models: A Survey [5 Feb 2024](https://arxiv.org/abs/2402.03182)
+* Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities [16 Feb 2024](https://arxiv.org/abs/2402.10835)
 * Foundation Models for Time Series Analysis: A Tutorial and Survey [21 Mar 2024](https://arxiv.org/abs/2403.14735)
 * Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond [21 Mar 2024](https://arxiv.org/abs/2403.14151) [yoshall/Awesome-Trajectory-Computing](https://github.com/yoshall/Awesome-Trajectory-Computing)
 
