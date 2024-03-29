@@ -26,7 +26,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * S^2 IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting [9 Mar 2024](https://arxiv.org/abs/2403.05798)
 
 * Anomaly Detection
-  * Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection [26 Jan 2024](https://arxiv.org/abs/2401.15123)
+  * Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection [26 Jan 2024](https://arxiv.org/abs/2401.15123) [AnomalyLLM](https://github.com/fly-orange/AnomalyLLM/tree/main)
   * Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review [15 Feb 2024](https://arxiv.org/abs/2402.10350)
 * Imputation 
   * GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation [24 Nov 2023](https://arxiv.org/abs/2311.14332)
@@ -36,19 +36,22 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * How Can Large Language Models Understand Spatial-Temporal Data? [25 Jan 2024](https://arxiv.org/abs/2401.14192)
   * UrbanGPT: Spatio-Temporal Large Language Models [25 Feb 2024](https://arxiv.org/abs/2403.00813)
   * TPLLM: A Traffic Prediction Framework Based on Pretrained Large Language Models [ 4 Mar 2024](https://arxiv.org/abs/2403.02221v1)
-  * 
+  * Spatial-Temporal Large Language Model for Traffic Prediction [18 Jan 2024](https://arxiv.org/abs/2401.10134)
 
 * One Fits all
   * One Fits All:Power General Time Series Analysis by Pretrained LM [arxiv 23 Feb 2023](https://arxiv.org/abs/2302.11939) [NeurIPS2023-One-Fits-All](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All) [no-officail reproduction](https://github.com/liaoyuhua/GPT-TS)
-  * TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08241#:~:text=TEST%3A%20Text%20Prototype%20Aligned%20Embedding%20to%20Activate%20LLM's%20Ability%20for%20Time%20Series,-Chenxi%20Sun%2C%20Yaliang&text=This%20work%20summarizes%20two%20strategies,LLM%20to%20handle%20TS%20data.)
+  * TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08241#:~:text=TEST%3A%20Text%20Prototype%20Aligned%20Embedding%20to%20Activate%20LLM's%20Ability%20for%20Time%20Series,-Chenxi%20Sun%2C%20Yaliang&text=This%20work%20summarizes%20two%20strategies,LLM%20to%20handle%20TS%20data.) [TEST](https://github.com/SCXsunchenxi/TEST)
   * Timer: Transformers for Time Series Analysis at Scale [4 Feb 2024](https://arxiv.org/abs/2402.02368)
   * UniTS: Building a Unified Time Series Model  [29 Feb 2024](https://arxiv.org/abs/2403.00131v1) [UniTS](https://github.com/mims-harvard/UniTS)
-
+  * MOMENT: A Family of Open Time-series Foundation Models [6 Feb 2024](https://arxiv.org/abs/2402.03885) [MOMENT](https://anonymous.4open.science/r/BETT-773F/README.md)
+  
 * Multimodal
   * Frozen Language Model Helps ECG Zero-Shot Learning [22 Mar 2023](https://arxiv.org/abs/2303.12311)
   * FinGPT: Open-Source Financial Large Language Models [arxiv 9 Jun 2023](https://arxiv.org/abs/2306.06031) [AI4Finance-Foundation/FinNLP](https://github.com/AI4Finance-Foundation/FinNLP)
   * FinVis-GPT: A Multimodal Large Language Model for Financial Chart Analysis [ (FinLLM 2023)@IJCAI 2023](https://arxiv.org/abs/2308.01430)
   * Insight Miner: A Time Series Analysis Dataset for Cross-Domain Alignment with Natural Language [NeurIPS2023-AI4Science Poster](https://openreview.net/forum?id=E1khscdUdH)
+  * GPT4MTS: Prompt-Based Large Language Model for Multimodal Time-Series
+    Forecasting [AAAI2024](https://ojs.aaai.org/index.php/AAAI/article/view/30383)
 
 
 #### Multimodal LM include TS
@@ -76,6 +79,10 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * A Review of Sparse Expert Models in Deep Learning [4 Sep 2022](https://arxiv.org/abs/2209.01667)
 * MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts [8 Jan 2024](https://arxiv.org/abs/2401.04081) [](https://github.com/llm-random/llm-random)
 
+### Mamba
+
+* 
+
 #### Biosignals dataset
 
 * Neuro-GPT: Developing A Foundation Model for EEG [arxiv 7 Nov 2023](https://arxiv.org/abs/2311.03764)
@@ -91,6 +98,8 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   for biomedical signals [July 06, 2023](https://www.medrxiv.org/content/10.1101/2023.06.28.23291916v1)
 * Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data [12 Jan 2024](https://arxiv.org/abs/2401.06866)
 * Self-supervised Learning for Electroencephalogram: A Systematic Survey [9 Jan 2024](https://arxiv.org/abs/2401.05446)
+* Learning Topology-Agnostic EEG Representations
+  with Geometry-Aware Modeling []() [MMM](https://seqml.github.io/MMM/)
 
 ####  Foundation for other domains
 
@@ -108,6 +117,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 #### Survey4TS
 
 * Self-supervised Contrastive Representation Learning for Semi-supervised Time-Series Classification [TPAMI 13 Aug 2022](https://arxiv.org/abs/2208.06616) [CA-TCC](https://github.com/emadeldeen24/CA-TCC)
+* Deep Learning for Time Series Classification and Extrinsic Regression: A Current Survey [ACM Computing Surveys, 2023](https://dl.acm.org/doi/abs/10.1145/3649448)
 * Unsupervised Representation Learning for Time Series: A Review [3 Aug 2023](https://arxiv.org/abs/2308.01578) [ULTS](https://github.com/mqwfrog/ULTS)
 * Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects [16 Jun 2023](https://arxiv.org/abs/2306.10125) [SSL4TS](https://github.com/qingsongedu/Awesome-SSL4TS)
 * A Survey on Time-Series Pre-Trained Models [18 May 2023](https://arxiv.org/abs/2305.10716)  [time-series-ptms](https://github.com/qianlima-lab/time-series-ptms)
@@ -123,7 +133,8 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * Position Paper:What Can Large Language Models Tell Us about Time Series Analysis [5 Feb 2024](https://arxiv.org/abs/2402.02713)
 * A Survey of Deep Learning and Foundation Models for Time Series Forecasting [25 Jan 2024](https://arxiv.org/abs/2401.13912)
 * Empowering Time Series Analysis with Large Language Models: A Survey [5 Feb 2024](https://arxiv.org/abs/2402.03182)
-* Deep Learning for Time Series Classification and Extrinsic Regression: A Current Survey [ACM Computing Surveys, 2023](https://dl.acm.org/doi/abs/10.1145/3649448)
+* Foundation Models for Time Series Analysis: A Tutorial and Survey [21 Mar 2024](https://arxiv.org/abs/2403.14735)
+* Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond [21 Mar 2024](https://arxiv.org/abs/2403.14151) [yoshall/Awesome-Trajectory-Computing](https://github.com/yoshall/Awesome-Trajectory-Computing)
 
 #### Project
 
