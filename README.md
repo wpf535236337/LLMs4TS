@@ -18,10 +18,12 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08469) 
   * UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting [15 Oct 2023](https://arxiv.org/abs/2310.09751)
   * AutoTimes: Autoregressive Time Series Forecasters via Large Language Models [4 Feb 2024](https://arxiv.org/abs/2402.02370)
+  * Unified Training of Universal Time Series Forecasting Transformers [4 Feb 2024](https://arxiv.org/abs/2402.02592)
   * LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting [25 Feb 2024](https://arxiv.org/abs/2402.16132v1) [LSTPrompt](https://github.com/AdityaLab/lstprompt)
   * Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning [7 Feb 2024](https://arxiv.org/abs/2402.04852)
   * Chronos: Learning the Language of Time Series [12 Mar 2024](https://arxiv.org/abs/2403.07815) [chronos](https://github.com/amazon-science/chronos-forecasting)
   * S^2 IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting [9 Mar 2024](https://arxiv.org/abs/2403.05798)
+  * 
 * Anomaly Detection
   * Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection [26 Jan 2024](https://arxiv.org/abs/2401.15123) [AnomalyLLM](https://github.com/fly-orange/AnomalyLLM/tree/main)
   * Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review [15 Feb 2024](https://arxiv.org/abs/2402.10350)
@@ -61,10 +63,16 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * PatchMixer: A Patch-Mixing Architecture for Long-Term Time Series Forecasting [arxiv  *1 Oct 2023*](https://arxiv.org/abs/2310.00655) [PatchMixer](https://github.com/Zeying-Gong/PatchMixer) [Chinese blog](https://mp.weixin.qq.com/s/gfAqL7bosdc0mxz8SziBbQ)
 * Learning to Embed Time Series Patches Independently [NeurIPS Workshop on Self-Supervised Learning: Theory and Practice, 2023](https://arxiv.org/abs/2312.16427) [pits](https://github.com/seunghan96/pits)
 * The first step is the hardest: Pitfalls of Representing and Tokenizing Temporal Data for Large Language Models [arxiv 12 Sep 2023](https://arxiv.org/abs/2309.06236)
-* Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot
-  Forecasting of Multivariate Time Series [8 Jan 2024](https://arxiv.org/abs/2401.03955)
 * What Makes for Good Visual Tokenizers for Large Language Models? [20 May 2023](https://arxiv.org/abs/2305.12223) [GVT](https://github.com/TencentARC/GVT)
 * SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models [ICLR2024](https://arxiv.org/abs/2308.16692) [SpeechTokenizer](https://0nutation.github.io/SpeechTokenizer.github.io/)
+* Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting [ICLR2024](https://github.com/decisionintelligence/pathformer)
+
+#### MLPer
+
+* TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting [KDD2023](https://arxiv.org/abs/2306.09364)[PatchTSMixer](https://github.com/IBM/tsfm/blob/main/notebooks/hfdemo/patch_tsmixer_getting_started.ipynb)
+* A Multi-Scale Decomposition MLP-Mixer for Time Series Analysis [VLDB2024](https://arxiv.org/abs/2310.11959) [zshhans/MSD-Mixer](https://github.com/zshhans/MSD-Mixer)
+* Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot
+  Forecasting of Multivariate Time Series [8 Jan 2024](https://arxiv.org/abs/2401.03955)
 
 #### Mixture-of-Experts (MoE)
 
@@ -79,7 +87,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting [14 Mar 2024](https://arxiv.org/abs/2403.09898) [Atik-Ahamed/TimeMachine](https://github.com/Atik-Ahamed/TimeMachine)
 * STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model [19 Mar 2024](https://arxiv.org/abs/2403.12418)
 * SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series [22 Mar 2024](https://arxiv.org/abs/2403.15360) [badripatro/simba](https://github.com/badripatro/Simba)
-* 
+* MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection [29 Mar 2024](https://arxiv.org/abs/2403.19888)
 
 #### Biosignals dataset
 
@@ -164,14 +172,15 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * [Change Point Detection in Time Series using ChatGPT](https://medium.com/@sztistvan/change-point-detection-in-time-series-using-chatgpt-22cc9172a130)
 * [Huggingface 镜像站](https://hf-mirror.com/)
 * [国内外高校和企业里时空数据挖掘相关的团队有哪些？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/617528629/answer/3177883285)
-* [北京交通大学教师名录 (bjtu.edu.cn)](http://faculty.bjtu.edu.cn/9685/)
+* 
 
 #### Laboratory
 
 * [Deep Learning for Mobile Health Lab](https://github.com/DL4mHealth)
 * [Mingsheng Long - Tsinghua University](http://ise.thss.tsinghua.edu.cn/~mlong/)
 * [Yang Yang - Zhejiang University](http://yangy.org/)
-* 
+* https://yuxuanliang.com/publications/
+* [北京交通大学教师名录 (bjtu.edu.cn)](http://faculty.bjtu.edu.cn/9685/)
 
 ### Course
 
