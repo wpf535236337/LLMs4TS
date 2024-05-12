@@ -18,7 +18,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08469) 
   * UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting [15 Oct 2023](https://arxiv.org/abs/2310.09751)
   * AutoTimes: Autoregressive Time Series Forecasters via Large Language Models [4 Feb 2024](https://arxiv.org/abs/2402.02370)
-  * Unified Training of Universal Time Series Forecasting Transformers [4 Feb 2024](https://arxiv.org/abs/2402.02592)
+  * Unified Training of Universal Time Series Forecasting Transformers [4 Feb 2024](https://arxiv.org/abs/2402.02592) [SalesforceAIResearch/uni2ts](https://github.com/SalesforceAIResearch/uni2ts)
   * LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting [25 Feb 2024](https://arxiv.org/abs/2402.16132v1) [LSTPrompt](https://github.com/AdityaLab/lstprompt)
   * Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning [7 Feb 2024](https://arxiv.org/abs/2402.04852)
   * Chronos: Learning the Language of Time Series [12 Mar 2024](https://arxiv.org/abs/2403.07815) [chronos](https://github.com/amazon-science/chronos-forecasting)
@@ -40,6 +40,8 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * Timer: Transformers for Time Series Analysis at Scale [4 Feb 2024](https://arxiv.org/abs/2402.02368)
   * UniTS: Building a Unified Time Series Model  [29 Feb 2024](https://arxiv.org/abs/2403.00131v1) [UniTS](https://github.com/mims-harvard/UniTS)
   * MOMENT: A Family of Open Time-series Foundation Models [6 Feb 2024](https://arxiv.org/abs/2402.03885) [MOMENT](https://anonymous.4open.science/r/BETT-773F/README.md)
+  * TSLANet: Rethinking Transformers for Time Series Representation Learning [ICML2024](https://arxiv.org/abs/2404.08472) [TSLANet](https://github.com/emadeldeen24/TSLANet)
+  * RWKV-TS: Beyond Traditional Recurrent Neural Network for Time Series Tasks [17 Jan 2024](https://arxiv.org/abs/2401.09093) [RWKV-TS](https://github.com/howard-hou/RWKV-TS)
 
 
 #### Multimodal large models include TS
@@ -72,6 +74,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * U-Mixer: An Unet-Mixer Architecture with Stationarity Correction for Time Series Forecasting [AAAI2024](https://arxiv.org/abs/2401.02236) [U-Mixer](https://github.com/XiangMa-Shaun/U-Mixer)
 * LightTS: Lightweight Time Series Classification with Adaptive
   Ensemble Distillation—Extended Version [SIGMOD 2023](https://arxiv.org/abs/2302.12721) 
+* An Analysis of Linear Time Series Forecasting Models [ICML2024](https://arxiv.org/abs//2403.14587)
 
 #### Mixture-of-Experts (MoE)
 
@@ -79,7 +82,8 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation [19 Dec 2023](https://arxiv.org/abs/2312.12276)
 * A Review of Sparse Expert Models in Deep Learning [4 Sep 2022](https://arxiv.org/abs/2209.01667)
 * MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts [8 Jan 2024](https://arxiv.org/abs/2401.04081) [](https://github.com/llm-random/llm-random)
-* 
+* ST-MoE: Spatio-Temporal Mixture of Experts for Multivariate Time Series Forecasting [2023ISKE](https://ieeexplore.ieee.org/abstract/document/10480934)
+* [Tutorial for Mixture of Expert (MoE) Forecasting Model — Merlion 1.1.0 documentation (salesforce.com)](https://opensource.salesforce.com/Merlion/v1.1.0/examples/advanced/2_MoE_Forecasting_tutorial.html)
 
 #### Mamba
 
@@ -88,6 +92,22 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model [19 Mar 2024](https://arxiv.org/abs/2403.12418)
 * SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series [22 Mar 2024](https://arxiv.org/abs/2403.15360) [badripatro/simba](https://github.com/badripatro/Simba)
 * MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection [29 Mar 2024](https://arxiv.org/abs/2403.19888)
+
+#### Multiple instance learning
+
+* TimeMIL: Advancing Multivariate Time Series Classification via a Time-aware Multiple Instance Learning [ICML2024](https://arxiv.org/abs/2405.03140) [xiwenc1/TimeMIL](https://github.com/xiwenc1/TimeMIL)
+* 
+
+#### NeXt  (Classic networks make a comeback)
+
+* A ConvNet for the 2020s [CVPR2022](https://arxiv.org/abs/2201.03545) [ConvNext](https://github.com/facebookresearch/ConvNeXt)
+* ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders [2 Jan 2023](https://arxiv.org/abs/2301.00808) [ConvNeXt-V2](https://github.com/facebookresearch/ConvNeXt-V2)
+* ModernTCN：A Modern Pure Convolution Structure for General Time Series Analysis [ICLR2024](https://openreview.net/forum?id=vpJMJerXHU) [luodhhh/ModernTCN](https://github.com/luodhhh/ModernTCN)
+* InceptionNeXt: When Inception Meets ConvNeXt [CVPR2024](https://arxiv.org/abs/2303.16900) [InceptionNeXt](https://github.com/sail-sg/inceptionnext)
+* RWKV: Reinventing RNNs for the Transformer Era [22 May 2023](https://arxiv.org/abs/2305.13048)
+* RWKV-TS: Beyond Traditional Recurrent Neural Network for Time Series Tasks [arxiv17 Jan 2024](https://arxiv.org/abs/2401.09093) [RWKV-TS](https://github.com/howard-hou/RWKV-TS)
+* Efficient and Effective Time-Series Forecasting with Spiking Neural Networks [ICML2024](https://arxiv.org/abs/2402.01533)
+* xLSTM: Extended Long Short-Term Memory [7 May 2024](https://arxiv.org/abs/2405.04517) [xLSTM]()
 
 #### Biosignal dataset
 
@@ -164,19 +184,21 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 
   * A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection [7 Jul 2023](https://arxiv.org/abs/2307.03759) [KimMeen/Awesome-GNN4TS](https://github.com/KimMeen/Awesome-GNN4TS)
 
-* Diffusion4TS
+*  Diffusion4TS
 
   * Diffusion models for time-series applications: a survey [1 May 2023](https://arxiv.org/abs/2305.00624)
+  * A Survey on Diffusion Models for Time Series and Spatio-Temporal Data [29 Apr 2024](https://arxiv.org/abs/2404.18886) [yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)
 
-* LLM4TS
+*  LLM4TS
 
   * Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook [arxiv 16 Oct 2023](https://arxiv.org/abs/2310.10196) [Awesome-TimeSeries-SpatioTemporal-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)
   * Large Language Models for Time Series: A Survey [2 Feb 2024](https://arxiv.org/abs/2402.01801) [xiyuanzh/awesome-llm-time-series](https://github.com/xiyuanzh/awesome-llm-time-series)
   * Position Paper:What Can Large Language Models Tell Us about Time Series Analysis [5 Feb 2024](https://arxiv.org/abs/2402.02713)
   * Empowering Time Series Analysis with Large Language Models: A Survey [5 Feb 2024](https://arxiv.org/abs/2402.03182)
   * Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities [16 Feb 2024](https://arxiv.org/abs/2402.10835)
+  * A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model [3 May 2024](https://arxiv.org/abs/2405.02358) [start2020/Awesome-TimeSeries-LLM-FM](https://github.com/start2020/Awesome-TimeSeries-LLM-FM)
 
-* Foundation  && Pre-Trained models
+*  Foundation  && Pre-Trained models
 
   * A Survey on Time-Series Pre-Trained Models [18 May 2023](https://arxiv.org/abs/2305.10716)  [time-series-ptms](https://github.com/qianlima-lab/time-series-ptms)
 
@@ -186,6 +208,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 
   * A Survey of Deep Learning and Foundation Models for Time Series Forecasting [25 Jan 2024](https://arxiv.org/abs/2401.13912)
   * Foundation Models for Time Series Analysis: A Tutorial and Survey [21 Mar 2024](https://arxiv.org/abs/2403.14735)
+  * Heterogeneous Contrastive Learning for Foundation Models and Beyond [30 Mar 2024](https://arxiv.org/abs/2404.00225)
 
 * Application
 
