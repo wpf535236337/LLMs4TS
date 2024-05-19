@@ -92,6 +92,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model [19 Mar 2024](https://arxiv.org/abs/2403.12418)
 * SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series [22 Mar 2024](https://arxiv.org/abs/2403.15360) [badripatro/simba](https://github.com/badripatro/Simba)
 * MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection [29 Mar 2024](https://arxiv.org/abs/2403.19888)
+* Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models [8 May 2024](https://arxiv.org/abs/2405.04909)
 
 #### Multiple instance learning
 
@@ -197,6 +198,8 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * Empowering Time Series Analysis with Large Language Models: A Survey [5 Feb 2024](https://arxiv.org/abs/2402.03182)
   * Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities [16 Feb 2024](https://arxiv.org/abs/2402.10835)
   * A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model [3 May 2024](https://arxiv.org/abs/2405.02358) [start2020/Awesome-TimeSeries-LLM-FM](https://github.com/start2020/Awesome-TimeSeries-LLM-FM)
+  * Large Language Models for Mobility in Transportation Systems: A Survey on Forecasting Tasks [3 May 2024](https://arxiv.org/abs/2405.02357) 
+  * 
 
 *  Foundation  && Pre-Trained models
 
