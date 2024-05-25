@@ -1,6 +1,6 @@
 # AI4TS
 
-Awesome resources focus on the application of cutting-edge AI technologies for time-series analysis (**AI4TS **). They delve into advanced topics such as self-supervised learning (**SSL**), Graph Neural Networks for Time Series (**GNN4TS**), Large Language Models for Time Series (**LLM4TS**), **Diffusion** models, Mixture-of-Experts (**MoE**) architectures and **Mamba** models, among others. These resources span various domains, including healthcare, finance, and traffic, offering a comprehensive view of the field. In addition, they feature top-notch tutorials, courses, and workshops from prestigious conferences, hosted by globally renowned scholars and research teams. Whether you're a professional, data scientist, or researcher, these tools and techniques can significantly enhance your time-series data analysis capabilities, providing a clear roadmap for your studies.
+Awesome resources focus on the application of cutting-edge AI technologies for time-series analysis (**AI4TS **). They delve into advanced topics such as self-supervised learning (**SSL**), Graph Neural Networks for Time Series (**GNN4TS**), Large Language Models for Time Series (**LLM4TS**), **Diffusion** models, Mixture-of-Experts (**MoE**) architectures and **Mamba** models, Kolmogorov Arnold Networks (**KAN**) among others. These resources span various domains, including healthcare, finance, and traffic, offering a comprehensive view of the field. In addition, they feature top-notch tutorials, courses, and workshops from prestigious conferences, hosted by globally renowned scholars and research teams. Whether you're a professional, data scientist, or researcher, these tools and techniques can significantly enhance your time-series data analysis capabilities, providing a clear roadmap for your studies.
 
 #### LLM4TS
 
@@ -94,6 +94,13 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection [29 Mar 2024](https://arxiv.org/abs/2403.19888)
 * Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models [8 May 2024](https://arxiv.org/abs/2405.04909)
 
+#### KAN
+
+* KAN: Kolmogorov-Arnold Networks [30 Apr 2024](https://arxiv.org/abs/2404.19756) [pykan](https://github.com/KindXiaoming/pykan)
+* TKAN: Temporal Kolmogorov-Arnold Networks [arxiv12 May 2024](https://arxiv.org/abs/2405.07344) [TKAN](https://github.com/remigenet/TKAN)
+* Kolmogorov-Arnold Networks (KANs) for Time Series Analysis [14 May 2024](https://arxiv.org/abs/2405.08790)
+* Feature-Based Time Series Classification with Kolmogorov–Arnold Networks [Simple-KAN-4-Time-Series](https://github.com/MSD-IRIMAS/Simple-KAN-4-Time-Series)
+
 #### Multiple instance learning
 
 * TimeMIL: Advancing Multivariate Time Series Classification via a Time-aware Multiple Instance Learning [ICML2024](https://arxiv.org/abs/2405.03140) [xiwenc1/TimeMIL](https://github.com/xiwenc1/TimeMIL)
@@ -181,7 +188,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond [21 Mar 2024](https://arxiv.org/abs/2403.14151) [yoshall/Awesome-Trajectory-Computing](https://github.com/yoshall/Awesome-Trajectory-Computing)
   * 
 
-* GNN4TS
+*  GNN4TS
 
   * A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection [7 Jul 2023](https://arxiv.org/abs/2307.03759) [KimMeen/Awesome-GNN4TS](https://github.com/KimMeen/Awesome-GNN4TS)
 
@@ -213,9 +220,14 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * Foundation Models for Time Series Analysis: A Tutorial and Survey [21 Mar 2024](https://arxiv.org/abs/2403.14735)
   * Heterogeneous Contrastive Learning for Foundation Models and Beyond [30 Mar 2024](https://arxiv.org/abs/2404.00225)
 
-* Application
+*  Application
 
   * Deep Learning for Multivariate Time Series Imputation: A Survey [6 Feb 2024](https://arxiv.org/abs/2402.04059) [WenjieDu/Awesome_Imputation](https://github.com/WenjieDu/Awesome_Imputation)
+*  Chinese
+   *  任利强,贾舒宜,王海鹏,等.基于深度学习的时间序列分类研究综述[J/OL].电子与信息学报:1-23[2024-05-25].http://kns.cnki.net/kcms/detail/11.4494.TN.20240109.0749.008.html.
+   *  毛远宏,孙琛琛,徐鲁豫,等.基于深度学习的时间序列预测方法综述[J].微电子学与计算机,2023,40(04):8-17.DOI:10.19304/J.ISSN1000-7180.2022.0725.
+   *  梁宏涛,刘硕,杜军威,等.深度学习应用于时序预测研究综述[J].计算机科学与探索,2023,17(06):1285-1300.
+
 
 #### Workshop
 
@@ -235,6 +247,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * [yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)
 * [SitaoLuan/LLM4Graph](https://github.com/SitaoLuan/LLM4Graph)
 * [willxxy/awesome-mmps](https://github.com/willxxy/awesome-mmps)
+* [mintisan/awesome-kan: A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field. (github.com)](https://github.com/mintisan/awesome-kan)
 * **Foundation-Models**
   * [uncbiag/Awesome-Foundation-Models](https://github.com/uncbiag/Awesome-Foundation-Models)
   * [UbiquitousLearning/Efficient_Foundation_Model_Survey](https://github.com/ubiquitouslearning/efficient_foundation_model_survey)
@@ -272,6 +285,8 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * [北京交通大学教师名录 (bjtu.edu.cn)](http://faculty.bjtu.edu.cn/9685/)
 * [国内外高校和企业里时空数据挖掘相关的团队有哪些？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/617528629/answer/3177883285)
 * [Xiyuan Zhang | Home](https://xiyuanzh.github.io/)
+* [Mingyue Cheng's HomePage (mingyue-cheng.github.io)](https://mingyue-cheng.github.io/)
+* 
 
 ### Course
 
