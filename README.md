@@ -23,9 +23,12 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning [7 Feb 2024](https://arxiv.org/abs/2402.04852)
   * Chronos: Learning the Language of Time Series [12 Mar 2024](https://arxiv.org/abs/2403.07815) [chronos](https://github.com/amazon-science/chronos-forecasting)
   * S^2 IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting [9 Mar 2024](https://arxiv.org/abs/2403.05798)
+  * CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning [12 Mar 2024](https://arxiv.org/abs/2403.07300) [CALF](https://github.com/Hank0626/CALF)
 * Anomaly Detection
   * Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection [26 Jan 2024](https://arxiv.org/abs/2401.15123) [AnomalyLLM](https://github.com/fly-orange/AnomalyLLM/tree/main)
   * Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review [15 Feb 2024](https://arxiv.org/abs/2402.10350)
+  * Large language models can be zero-shot anomaly detectors for time series?  [*23 May 2024*](https://arxiv.org/abs/2405.14755)
+  * 
 * Imputation 
   * GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation [24 Nov 2023](https://arxiv.org/abs/2311.14332)
 * Spatio-temporal prediction
@@ -42,6 +45,8 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * MOMENT: A Family of Open Time-series Foundation Models [6 Feb 2024](https://arxiv.org/abs/2402.03885) [MOMENT](https://anonymous.4open.science/r/BETT-773F/README.md)
   * TSLANet: Rethinking Transformers for Time Series Representation Learning [ICML2024](https://arxiv.org/abs/2404.08472) [TSLANet](https://github.com/emadeldeen24/TSLANet)
   * RWKV-TS: Beyond Traditional Recurrent Neural Network for Time Series Tasks [17 Jan 2024](https://arxiv.org/abs/2401.09093) [RWKV-TS](https://github.com/howard-hou/RWKV-TS)
+  * UniCL: A Universal Contrastive Learning Framework for Large Time Series Models [17 May 2024](https://arxiv.org/abs/2405.10597)
+  * 
 
 
 #### Multimodal large models include TS
