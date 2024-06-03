@@ -65,6 +65,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * What Makes for Good Visual Tokenizers for Large Language Models? [20 May 2023](https://arxiv.org/abs/2305.12223) [GVT](https://github.com/TencentARC/GVT)
 * SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models [ICLR2024](https://arxiv.org/abs/2308.16692) [SpeechTokenizer](https://0nutation.github.io/SpeechTokenizer.github.io/)
 * Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting [ICLR2024](https://github.com/decisionintelligence/pathformer)
+* From Similarity to Superiority: Channel Clustering for Time Series Forecasting [31 Mar 2024](https://arxiv.org/abs/2404.01340v1)
 
 #### GNN
 
@@ -98,6 +99,8 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series [22 Mar 2024](https://arxiv.org/abs/2403.15360) [badripatro/simba](https://github.com/badripatro/Simba)
 * MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection [29 Mar 2024](https://arxiv.org/abs/2403.19888)
 * Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models [8 May 2024](https://arxiv.org/abs/2405.04909)
+* Time-SSM: Simplifying and Unifying State Space Models for Time Series Forecasting [25 May 2024](https://arxiv.org/abs/2405.16312)
+* 
 
 #### KAN
 
@@ -140,6 +143,11 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * Learning Topology-Agnostic EEG Representations
   with Geometry-Aware Modeling [NeurIPS 2023](https://papers.nips.cc/paper_files/paper/2023/hash/a8c893712cb7858e49631fb03c941f8d-Abstract-Conference.html) [MMM](https://seqml.github.io/MMM/)
 * A Survey of Large Language Models in Medicine: Progress, Application, and Challenge [9 Nov 2023](https://arxiv.org/abs/2311.05112) [AI-in-Health/MedLLMsPracticalGuide](https://github.com/AI-in-Health/MedLLMsPracticalGuide)
+* EEG-GPT: Exploring Capabilities of Large Language Models for EEG Classification and Interpretation [31 Jan 2024](https://arxiv.org/abs/2401.18006)
+* A Survey on Multimodal Wearable Sensor-based
+  Human Action Recognition [14 Apr 2024](https://arxiv.org/abs/2404.15349)
+* Unveiling Thoughts: A Review of Advancements in EEG Brain Signal Decoding into Text [26 Apr 2024](https://arxiv.org/abs/2405.00726)
+* AI for Biomedicine in the Era of Large Language Models [23 Mar 2024](https://arxiv.org/abs/2403.15673)
 
 ####  Foundation for other domains
 
@@ -191,16 +199,19 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * Universal Time-Series Representation Learning: A Survey [8 Jan 2024](https://arxiv.org/abs/2401.03717) [itouchz/awesome-deep-time-series-representations](https://github.com/itouchz/awesome-deep-time-series-representations)
 
   * Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond [21 Mar 2024](https://arxiv.org/abs/2403.14151) [yoshall/Awesome-Trajectory-Computing](https://github.com/yoshall/Awesome-Trajectory-Computing)
+  * Scaling-laws for Large Time-series Models [22 May 2024]( https://arxiv.org/abs/2405.13867)
   * 
-
 *  GNN4TS
 
   * A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection [7 Jul 2023](https://arxiv.org/abs/2307.03759) [KimMeen/Awesome-GNN4TS](https://github.com/KimMeen/Awesome-GNN4TS)
+*  Generative models
+   *  General 
+      *  A Survey of Generative Techniques for Spatial-Temporal Data Mining [15 May 2024 ](https://arxiv.org/abs/2405.09592)
 
-*  Diffusion4TS
+   *  Diffusion4TS
 
-  * Diffusion models for time-series applications: a survey [1 May 2023](https://arxiv.org/abs/2305.00624)
-  * A Survey on Diffusion Models for Time Series and Spatio-Temporal Data [29 Apr 2024](https://arxiv.org/abs/2404.18886) [yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)
+      * Diffusion models for time-series applications: a survey [1 May 2023](https://arxiv.org/abs/2305.00624)
+      * A Survey on Diffusion Models for Time Series and Spatio-Temporal Data [29 Apr 2024](https://arxiv.org/abs/2404.18886) [yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)
 
 *  LLM4TS
 
@@ -212,7 +223,6 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model [3 May 2024](https://arxiv.org/abs/2405.02358) [start2020/Awesome-TimeSeries-LLM-FM](https://github.com/start2020/Awesome-TimeSeries-LLM-FM)
   * Large Language Models for Mobility in Transportation Systems: A Survey on Forecasting Tasks [3 May 2024](https://arxiv.org/abs/2405.02357) 
   * 
-
 *  Foundation  && Pre-Trained models
 
   * A Survey on Time-Series Pre-Trained Models [18 May 2023](https://arxiv.org/abs/2305.10716)  [time-series-ptms](https://github.com/qianlima-lab/time-series-ptms)
@@ -224,7 +234,6 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * A Survey of Deep Learning and Foundation Models for Time Series Forecasting [25 Jan 2024](https://arxiv.org/abs/2401.13912)
   * Foundation Models for Time Series Analysis: A Tutorial and Survey [21 Mar 2024](https://arxiv.org/abs/2403.14735)
   * Heterogeneous Contrastive Learning for Foundation Models and Beyond [30 Mar 2024](https://arxiv.org/abs/2404.00225)
-
 *  Application
 
   * Deep Learning for Multivariate Time Series Imputation: A Survey [6 Feb 2024](https://arxiv.org/abs/2402.04059) [WenjieDu/Awesome_Imputation](https://github.com/WenjieDu/Awesome_Imputation)
