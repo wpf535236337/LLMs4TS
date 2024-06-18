@@ -24,11 +24,13 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * Chronos: Learning the Language of Time Series [12 Mar 2024](https://arxiv.org/abs/2403.07815) [chronos](https://github.com/amazon-science/chronos-forecasting)
   * S^2 IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting [9 Mar 2024](https://arxiv.org/abs/2403.05798)
   * CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning [12 Mar 2024](https://arxiv.org/abs/2403.07300) [CALF](https://github.com/Hank0626/CALF)
+  * TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment [3 Jun 2024](https://arxiv.org/abs/2406.01638)
+  * 
 * Anomaly Detection
   * Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection [26 Jan 2024](https://arxiv.org/abs/2401.15123) [AnomalyLLM](https://github.com/fly-orange/AnomalyLLM/tree/main)
   * Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review [15 Feb 2024](https://arxiv.org/abs/2402.10350)
   * Large language models can be zero-shot anomaly detectors for time series?  [*23 May 2024*](https://arxiv.org/abs/2405.14755)
-  * 
+  * PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection [KDD2024](https://arxiv.org/abs/2406.02318)
 * Imputation 
   * GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation [24 Nov 2023](https://arxiv.org/abs/2311.14332)
 * Spatio-temporal prediction
@@ -70,6 +72,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 #### GNN
 
 * Graph-Aware Contrasting for Multivariate Time-Series Classification [AAAI2024](https://ojs.aaai.org/index.php/AAAI/article/view/29501) [TSGAC](https://github.com/Frank-Wang-oss/TS-GAC)
+* GinAR: An End-To-End Multivariate Time Series Forecasting Model Suitable for Variable Missing [KDD2024](https://arxiv.org/abs/2405.11333)
 
 #### MLPer
 
@@ -182,6 +185,14 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * Improving day-ahead Solar Irradiance Time Series
     Forecasting by Leveraging Spatio-Temporal Context [1 Jun 2023](https://arxiv.org/abs/2306.01112) [CrossViVit](https://github.com/gitbooo/CrossViVit)
 
+#### Benchmark 
+
+* TS-Benchmark: A Benchmark for Time Series Databases [ICDE2021](https://ieeexplore.ieee.org/abstract/document/9458659)
+* TimeEval: a benchmarking toolkit for time series anomaly detection algorithms [VLDB2022](https://dl.acm.org/doi/abs/10.14778/3554821.3554873)
+* Class-incremental Learning for Time Series: Benchmark and Evaluation [KDD2024(ADS track)](https://arxiv.org/abs/2402.12035) [zqiao11/TSCIL](https://github.com/zqiao11/TSCIL)
+* TFB: Towards Comprehensive and Fair Benchmarking of Time
+  Series Forecasting Methods [VLDB2024](https://arxiv.org/abs/2403.20150) [TFB](https://github.com/decisionintelligence/TFB)
+
 #### Survey4TS
 
 *  Representation learning(self-supervised learning && Semi-supervised learning&&Supervised learning)
@@ -204,6 +215,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 *  GNN4TS
 
   * A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection [7 Jul 2023](https://arxiv.org/abs/2307.03759) [KimMeen/Awesome-GNN4TS](https://github.com/KimMeen/Awesome-GNN4TS)
+  * K-Link: Knowledge-Link Graph from LLMs for Enhanced Representation Learning in Multivariate Time-Series Data [6 Mar 2024](https://arxiv.org/abs/2403.03645)
 *  Generative models
    *  General 
       *  A Survey of Generative Techniques for Spatial-Temporal Data Mining [15 May 2024 ](https://arxiv.org/abs/2405.09592)
