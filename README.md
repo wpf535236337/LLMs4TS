@@ -84,6 +84,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * LightTS: Lightweight Time Series Classification with Adaptive
   Ensemble Distillation—Extended Version [SIGMOD 2023](https://arxiv.org/abs/2302.12721) 
 * An Analysis of Linear Time Series Forecasting Models [ICML2024](https://arxiv.org/abs//2403.14587)
+* SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion [22 Apr 2024](https://arxiv.org/abs/2404.14197) [Secilia-Cxy/SOFTS](https://github.com/Secilia-Cxy/SOFTS)
 
 #### Mixture-of-Experts (MoE)
 
@@ -185,13 +186,14 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * Improving day-ahead Solar Irradiance Time Series
     Forecasting by Leveraging Spatio-Temporal Context [1 Jun 2023](https://arxiv.org/abs/2306.01112) [CrossViVit](https://github.com/gitbooo/CrossViVit)
 
-#### Benchmark 
+#### Benchmark && Analysis 
 
 * TS-Benchmark: A Benchmark for Time Series Databases [ICDE2021](https://ieeexplore.ieee.org/abstract/document/9458659)
 * TimeEval: a benchmarking toolkit for time series anomaly detection algorithms [VLDB2022](https://dl.acm.org/doi/abs/10.14778/3554821.3554873)
 * Class-incremental Learning for Time Series: Benchmark and Evaluation [KDD2024(ADS track)](https://arxiv.org/abs/2402.12035) [zqiao11/TSCIL](https://github.com/zqiao11/TSCIL)
 * TFB: Towards Comprehensive and Fair Benchmarking of Time
   Series Forecasting Methods [VLDB2024](https://arxiv.org/abs/2403.20150) [TFB](https://github.com/decisionintelligence/TFB)
+* The Capacity and Robustness Trade-off: Revisiting the Channel Independent Strategy for Multivariate Time Series Forecasting [TKDE2024](https://arxiv.org/abs/2304.05206) [channel_independent_MTSF](https://github.com/hanlu-nju/channel_independent_MTSF)
 
 #### Survey4TS
 
