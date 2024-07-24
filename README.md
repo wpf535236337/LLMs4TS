@@ -25,7 +25,6 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * S^2 IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting [9 Mar 2024](https://arxiv.org/abs/2403.05798)
   * CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning [12 Mar 2024](https://arxiv.org/abs/2403.07300) [CALF](https://github.com/Hank0626/CALF)
   * TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment [3 Jun 2024](https://arxiv.org/abs/2406.01638)
-  * 
 * Anomaly Detection
   * Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection [26 Jan 2024](https://arxiv.org/abs/2401.15123) [AnomalyLLM](https://github.com/fly-orange/AnomalyLLM/tree/main)
   * Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review [15 Feb 2024](https://arxiv.org/abs/2402.10350)
@@ -48,7 +47,10 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * TSLANet: Rethinking Transformers for Time Series Representation Learning [ICML2024](https://arxiv.org/abs/2404.08472) [TSLANet](https://github.com/emadeldeen24/TSLANet)
   * RWKV-TS: Beyond Traditional Recurrent Neural Network for Time Series Tasks [17 Jan 2024](https://arxiv.org/abs/2401.09093) [RWKV-TS](https://github.com/howard-hou/RWKV-TS)
   * UniCL: A Universal Contrastive Learning Framework for Large Time Series Models [17 May 2024](https://arxiv.org/abs/2405.10597)
-  * 
+* Discussion
+  * Language models still struggle to zero-shot reason about time series [17 Apr 2024](https://arxiv.org/abs/2404.11757)[TSandLanguage](https://github.com/behavioral-data/TSandLanguage)
+  * Are Language Models Actually Useful for Time Series Forecasting? [22 Jun 2024](https://arxiv.org/pdf/2406.16964) [TS_Models](https://github.com/BennyTMT/TS_Models)
+
 
 
 #### Multimodal large models include TS
@@ -133,6 +135,8 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 
 * Neuro-GPT: Developing A Foundation Model for EEG [arxiv 7 Nov 2023](https://arxiv.org/abs/2311.03764)
 * Brant: Foundation Model for Intracranial Neural Signal [NeurIPS23](http://yangy.org/works/brainnet/NeurIPS23_Brant.pdf)
+* Brant-2: Foundation Model for Brain Signals [15 Feb 2024](https://arxiv.org/abs/2402.10251)
+* Brant-X: A Unified Physiological Signal Alignment Framework [KDD2024](http://yangy.org/works/brainnet/KDD24_BrantX.pdf)
 * PPi: Pretraining Brain Signal Model for Patient-independent Seizure Detection [NeurIPS23](http://yangy.org/works/brainnet/NeurIPS23_PPi.pdf)
 * Large-scale training of foundation models for wearable biosignals [submit ICLR 2024](https://openreview.net/forum?id=pC3WJHf51j)
 * BIOT: Cross-data Biosignal Learning in the Wild [NeurIPS23](https://arxiv.org/abs/2305.10351) [BIOT](https://github.com/ycq091044/BIOT)
@@ -152,12 +156,13 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   Human Action Recognition [14 Apr 2024](https://arxiv.org/abs/2404.15349)
 * Unveiling Thoughts: A Review of Advancements in EEG Brain Signal Decoding into Text [26 Apr 2024](https://arxiv.org/abs/2405.00726)
 * AI for Biomedicine in the Era of Large Language Models [23 Mar 2024](https://arxiv.org/abs/2403.15673)
+* 
 
 ####  Foundation for other domains
 
 * Foundation Models for *Weather and Climate Data* Understanding: A Comprehensive Survey [5 Dec 2023](https://arxiv.org/abs/2312.03014)
 * [Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models](https://arxiv.org/abs/2402.01749 ) [usail-hkust/Awesome-Urban-Foundation-Models](https://github.com/usail-hkust/Awesome-Urban-Foundation-Models)
-* 
+* Urban Foundation Models: A Survey [KDD2024](https://www.researchgate.net/profile/Weijia-Zhang-6/publication/382025953_Urban_Foundation_Models_A_Survey/links/6688a92c0a25e27fbc2ba75a/Urban-Foundation-Models-A-Survey.pdf)
 
 #### Multimodal TS
 
@@ -185,6 +190,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * Multimodal Adaptive Emotion Transformer with Flexible Modality Inputs on A Novel Dataset with Continuous Labels [ACMMM 27 October 2023](https://dl.acm.org/doi/10.1145/3581783.3613797)
   * Improving day-ahead Solar Irradiance Time Series
     Forecasting by Leveraging Spatio-Temporal Context [1 Jun 2023](https://arxiv.org/abs/2306.01112) [CrossViVit](https://github.com/gitbooo/CrossViVit)
+  * DualTime: A Dual-Adapter Multimodal Language Model for Time Series Representation [7 Jun 2024](https://arxiv.org/abs/2406.06620)
 
 #### Benchmark && Analysis 
 
@@ -194,6 +200,8 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * TFB: Towards Comprehensive and Fair Benchmarking of Time
   Series Forecasting Methods [VLDB2024](https://arxiv.org/abs/2403.20150) [TFB](https://github.com/decisionintelligence/TFB)
 * The Capacity and Robustness Trade-off: Revisiting the Channel Independent Strategy for Multivariate Time Series Forecasting [TKDE2024](https://arxiv.org/abs/2304.05206) [channel_independent_MTSF](https://github.com/hanlu-nju/channel_independent_MTSF)
+* Deep Time Series Models: A Comprehensive Survey and Benchmark [18 Jul 2024](https://arxiv.org/abs/2407.13278) [TSLib](https://github.com/thuml/Time-Series-Library)
+* UP2ME: Univariate Pre-training to Multivariate Fine-tuning as a General-purpose Framework for Multivariate Time Series Analysis [ICML2024](https://openreview.net/pdf?id=aR3uxWlZhX) [UP2ME](https://github.com/Thinklab-SJTU/UP2ME)
 
 #### Survey4TS
 
@@ -213,7 +221,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 
   * Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond [21 Mar 2024](https://arxiv.org/abs/2403.14151) [yoshall/Awesome-Trajectory-Computing](https://github.com/yoshall/Awesome-Trajectory-Computing)
   * Scaling-laws for Large Time-series Models [22 May 2024]( https://arxiv.org/abs/2405.13867)
-  * 
+  * Deep Time Series Forecasting Models: A Comprehensive Survey [*Mathematics 2024*](https://www.mdpi.com/2227-7390/12/10/1504)
 *  GNN4TS
 
   * A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection [7 Jul 2023](https://arxiv.org/abs/2307.03759) [KimMeen/Awesome-GNN4TS](https://github.com/KimMeen/Awesome-GNN4TS)
@@ -272,10 +280,12 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * [Multivariate Time Series Transformer Framework](https://github.com/gzerveas/mvts_transformer)
 * [xiyuanzh/time-series-papers](https://github.com/xiyuanzh/time-series-papers)
 * [vincentlux/Awesome-Multimodal-LLM](https://github.com/vincentlux/Awesome-Multimodal-LLM)
+* 
 * [yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)
 * [SitaoLuan/LLM4Graph](https://github.com/SitaoLuan/LLM4Graph)
 * [willxxy/awesome-mmps](https://github.com/willxxy/awesome-mmps)
 * [mintisan/awesome-kan: A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field. (github.com)](https://github.com/mintisan/awesome-kan)
+* [xmindflow/Awesome_Mamba](https://github.com/xmindflow/Awesome_Mamba)
 * **Foundation-Models**
   * [uncbiag/Awesome-Foundation-Models](https://github.com/uncbiag/Awesome-Foundation-Models)
   * [UbiquitousLearning/Efficient_Foundation_Model_Survey](https://github.com/ubiquitouslearning/efficient_foundation_model_survey)
