@@ -32,12 +32,13 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection [KDD2024](https://arxiv.org/abs/2406.02318)
 * Imputation 
   * GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation [24 Nov 2023](https://arxiv.org/abs/2311.14332)
+  * NuwaTS: a Foundation Model Mending Every Incomplete Time Series [24 May 2024](https://arxiv.org/abs/2405.15317) [Chengyui/NuwaTS](https://github.com/Chengyui/NuwaTS)
 * Spatio-temporal prediction
   * Spatio-Temporal Graph Learning with Large Language Model [20 Sept 2023](https://openreview.net/forum?id=QUkcfqa6GX)
   * How Can Large Language Models Understand Spatial-Temporal Data? [25 Jan 2024](https://arxiv.org/abs/2401.14192)
   * UrbanGPT: Spatio-Temporal Large Language Models [25 Feb 2024](https://arxiv.org/abs/2403.00813)
   * TPLLM: A Traffic Prediction Framework Based on Pretrained Large Language Models [ 4 Mar 2024](https://arxiv.org/abs/2403.02221v1)
-  * Spatial-Temporal Large Language Model for Traffic Prediction [18 Jan 2024](https://arxiv.org/abs/2401.10134)
+  * Spatial-Temporal Large Language Model for Traffic Prediction [18 Jan 2024](https://arxiv.org/abs/2401.10134) [ChenxiLiu-HNU/ST-LLM](https://github.com/ChenxiLiu-HNU/ST-LLM)
 * One Fits all
   * One Fits All:Power General Time Series Analysis by Pretrained LM [arxiv 23 Feb 2023](https://arxiv.org/abs/2302.11939) [NeurIPS2023-One-Fits-All](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All) [no-officail reproduction](https://github.com/liaoyuhua/GPT-TS)
   * TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series [arxiv16 Aug 2023](https://arxiv.org/abs/2308.08241#:~:text=TEST%3A%20Text%20Prototype%20Aligned%20Embedding%20to%20Activate%20LLM's%20Ability%20for%20Time%20Series,-Chenxi%20Sun%2C%20Yaliang&text=This%20work%20summarizes%20two%20strategies,LLM%20to%20handle%20TS%20data.) [TEST](https://github.com/SCXsunchenxi/TEST)
@@ -70,6 +71,9 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models [ICLR2024](https://arxiv.org/abs/2308.16692) [SpeechTokenizer](https://0nutation.github.io/SpeechTokenizer.github.io/)
 * Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting [ICLR2024](https://github.com/decisionintelligence/pathformer)
 * From Similarity to Superiority: Channel Clustering for Time Series Forecasting [31 Mar 2024](https://arxiv.org/abs/2404.01340v1)
+* TOTEM: TOkenized Time series EMbeddings for General Time Series Analysis [26 Feb 2024](https://arxiv.org/abs/2402.16412) [TOTEM](https://github.com/SaberaTalukder/TOTEM)
+* Medformer: A Multi-Granularity Patching Transformer for Medical Time-Series Classification [arxiv24 May 2024](https://arxiv.org/abs/2405.19363) [DL4mHealth/Medformer](https://github.com/DL4mHealth/Medformer)
+* 
 
 #### GNN
 
@@ -106,7 +110,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection [29 Mar 2024](https://arxiv.org/abs/2403.19888)
 * Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models [8 May 2024](https://arxiv.org/abs/2405.04909)
 * Time-SSM: Simplifying and Unifying State Space Models for Time Series Forecasting [25 May 2024](https://arxiv.org/abs/2405.16312)
-* 
+* TSCMamba: Mamba Meets Multi-View Learning for Time Series Classification [6 Jun 2024](https://arxiv.org/abs/2406.04419)
 
 #### KAN
 
@@ -130,6 +134,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * RWKV-TS: Beyond Traditional Recurrent Neural Network for Time Series Tasks [arxiv17 Jan 2024](https://arxiv.org/abs/2401.09093) [RWKV-TS](https://github.com/howard-hou/RWKV-TS)
 * Efficient and Effective Time-Series Forecasting with Spiking Neural Networks [ICML2024](https://arxiv.org/abs/2402.01533)
 * xLSTM: Extended Long Short-Term Memory [7 May 2024](https://arxiv.org/abs/2405.04517) [xLSTM]()
+* Unlocking the Power of LSTM for Long Term Time Series Forecasting [19 Aug 2024](https://arxiv.org/abs/2408.10006) 
 
 #### Biosignal dataset
 
@@ -181,6 +186,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * FinGPT: Open-Source Financial Large Language Models [arxiv 9 Jun 2023](https://arxiv.org/abs/2306.06031) [AI4Finance-Foundation/FinNLP](https://github.com/AI4Finance-Foundation/FinNLP)
   * FinVis-GPT: A Multimodal Large Language Model for Financial Chart Analysis [ (FinLLM 2023)@IJCAI 2023](https://arxiv.org/abs/2308.01430)
   * Insight Miner: A Time Series Analysis Dataset for Cross-Domain Alignment with Natural Language [NeurIPS2023-AI4Science Poster](https://openreview.net/forum?id=E1khscdUdH
+  * A Survey of Large Language Models for Financial Applications: Progress, Prospects and Challenges [15 Jun 2024](https://arxiv.org/abs/2406.11903)
 * Other fields
   * GPT4MTS: Prompt-Based Large Language Model for Multimodal Time-Series
     Forecasting [AAAI2024](https://ojs.aaai.org/index.php/AAAI/article/view/30383)
@@ -292,12 +298,15 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * [zhanghm1995/Forge_VFM4AD](https://github.com/zhanghm1995/Forge_VFM4AD)
   * [Yangyi-Chen/Multimodal-AND-Large-Language-Models](https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models)
   * [MM-LLMs: Recent Advances in MultiModal Large Language Models](https://mm-llms.github.io/)
+  * [A Survey on Benchmarks of Multimodal Large
+    Language Models]() [swordlidev/Evaluation-Multimodal-LLMs-Survey](swordlidev/Evaluation-Multimodal-LLMs-Survey)
   * [Learning on Multimodal Graphs: A Survey](https://arxiv.org/abs/2402.05322)
   * [The (R)Evolution of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2402.12451)
   * [A Practical Guide for Medical Large Language Models](https://github.com/AI-in-Health/MedLLMsPracticalGuide)
   * [Instruction Tuning for Large Language Models: A Survey](https://arxiv.org/abs/2308.10792) [xiaoya-li/Instruction-Tuning-Survey](https://github.com/xiaoya-li/Instruction-Tuning-Survey)
   * [Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey](https://arxiv.org/ abs/2312.16602) 
   * [Brain-Conditional Multimodal Synthesis: A Survey and Taxonomy](https://arxiv.org/pdf/2401.00430.pdf)
+  * [Towards Graph Foundation Models: A Survey and Beyond](https://arxiv.org/abs/2310.11829)
 
 #### Self-supervised learning tools
 
