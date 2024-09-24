@@ -1,6 +1,6 @@
 # AI4TS
 
-Awesome resources focus on the application of cutting-edge AI technologies for time-series analysis (**AI4TS **). They delve into advanced topics such as self-supervised learning (**SSL**), Graph Neural Networks for Time Series (**GNN4TS**), Large Language Models for Time Series (**LLM4TS**), **Diffusion** models, Mixture-of-Experts (**MoE**) architectures and **Mamba** models, Kolmogorov Arnold Networks (**KAN**) among others. These resources span various domains, including healthcare, finance, and traffic, offering a comprehensive view of the field. In addition, they feature top-notch tutorials, courses, and workshops from prestigious conferences, hosted by globally renowned scholars and research teams. Whether you're a professional, data scientist, or researcher, these tools and techniques can significantly enhance your time-series data analysis capabilities, providing a clear roadmap for your studies.
+Awesome resources focus on the application of cutting-edge AI technologies for time-series analysis (**AI4TS **). They delve into advanced topics such as self-supervised learning (**SSL**), Graph Neural Networks for Time Series (**GNN4TS**), Large Language Models for Time Series (**LLM4TS**), **Diffusion** models, Mixture-of-Experts (**MoE**) architectures and **Mamba** models, Kolmogorov Arnold Networks (**KAN**),  Learn at Test Time (**TTT**) among others. These resources span various domains, including healthcare, finance, and traffic, offering a comprehensive view of the field. In addition, they feature top-notch tutorials, courses, and workshops from prestigious conferences, hosted by globally renowned scholars and research teams. Whether you're a professional, data scientist, or researcher, these tools and techniques can significantly enhance your time-series data analysis capabilities, providing a clear roadmap for your studies.
 
 #### LLM4TS
 
@@ -25,6 +25,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * S^2 IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting [9 Mar 2024](https://arxiv.org/abs/2403.05798)
   * CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning [12 Mar 2024](https://arxiv.org/abs/2403.07300) [CALF](https://github.com/Hank0626/CALF)
   * TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment [3 Jun 2024](https://arxiv.org/abs/2406.01638)
+  * TS-TCD: Triplet-Level Cross-Modal Distillation for Time-Series Forecasting Using Large Language Models [23 Sep 2024](https://arxiv.org/abs/2409.14978)
 * Anomaly Detection
   * Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection [26 Jan 2024](https://arxiv.org/abs/2401.15123) [AnomalyLLM](https://github.com/fly-orange/AnomalyLLM/tree/main)
   * Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review [15 Feb 2024](https://arxiv.org/abs/2402.10350)
@@ -52,7 +53,10 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * Language models still struggle to zero-shot reason about time series [17 Apr 2024](https://arxiv.org/abs/2404.11757)[TSandLanguage](https://github.com/behavioral-data/TSandLanguage)
   * Are Language Models Actually Useful for Time Series Forecasting? [22 Jun 2024](https://arxiv.org/pdf/2406.16964) [TS_Models](https://github.com/BennyTMT/TS_Models)
 
+#### Vision4TS
 
+* VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters [30 Aug 2024](https://arxiv.org/abs/2408.17253) [Keytoyze/VisionTS](https://github.com/Keytoyze/VisionTS)
+* CAFO: Feature-Centric Explanation on Time Series Classification [KDD2024](https://arxiv.org/abs/2406.01833)
 
 #### Multimodal large models include TS
 
@@ -119,6 +123,11 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * Kolmogorov-Arnold Networks (KANs) for Time Series Analysis [14 May 2024](https://arxiv.org/abs/2405.08790)
 * Feature-Based Time Series Classification with Kolmogorov–Arnold Networks [Simple-KAN-4-Time-Series](https://github.com/MSD-IRIMAS/Simple-KAN-4-Time-Series)
 
+#### TTT
+
+* Learning to (Learn at Test Time): RNNs with Expressive Hidden States [5 Jul 2024 ](https://arxiv.org/abs/2407.04620)[test-time-training/ttt-lm-pytorch](https://github.com/test-time-training/ttt-lm-pytorch?tab=readme-ov-file)
+* 
+
 #### Multiple instance learning
 
 * TimeMIL: Advancing Multivariate Time Series Classification via a Time-aware Multiple Instance Learning [ICML2024](https://arxiv.org/abs/2405.03140) [xiwenc1/TimeMIL](https://github.com/xiwenc1/TimeMIL)
@@ -135,6 +144,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * Efficient and Effective Time-Series Forecasting with Spiking Neural Networks [ICML2024](https://arxiv.org/abs/2402.01533)
 * xLSTM: Extended Long Short-Term Memory [7 May 2024](https://arxiv.org/abs/2405.04517) [xLSTM]()
 * Unlocking the Power of LSTM for Long Term Time Series Forecasting [19 Aug 2024](https://arxiv.org/abs/2408.10006) 
+* TransNeXt: Robust Foveal Visual Perception for Vision Transformers [CVPR2024](https://arxiv.org/abs/2311.17132)
 
 #### Biosignal dataset
 
@@ -161,7 +171,8 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   Human Action Recognition [14 Apr 2024](https://arxiv.org/abs/2404.15349)
 * Unveiling Thoughts: A Review of Advancements in EEG Brain Signal Decoding into Text [26 Apr 2024](https://arxiv.org/abs/2405.00726)
 * AI for Biomedicine in the Era of Large Language Models [23 Mar 2024](https://arxiv.org/abs/2403.15673)
-* 
+* NeuroLM: A Universal Multi-task Foundation Model for Bridging the Gap between Language and EEG Signals [27 Aug 2024](https://arxiv.org/abs/2409.00101)
+* EEG-Language Modeling for Pathology Detection [2 Sep 2024](https://arxiv.org/abs/2409.07480)
 
 ####  Foundation for other domains
 
@@ -182,6 +193,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * Multimodal Pretraining of Medical Time Series and Notes [PMLR2023](https://proceedings.mlr.press/v225/king23a.html) [kingrc15/multimodal-clinical-pretraining](https://github.com/kingrc15/multimodal-clinical-pretraining)
   * SleepFM: Multi-modal Representation Learning for Sleep across ECG, EEG and
     Respiratory Signals [AAAI 2024 Spring Symposium Series Clinical FMs](https://openreview.net/pdf?id=cDXtscWCKC)
+  * [[2408.07773\] MedTsLLM: Leveraging LLMs for Multimodal Medical Time Series Analysis (arxiv.org)](https://arxiv.org/abs/2408.07773) [MedTsLLM](https://github.com/flixpar/med-ts-llm)
 * Financial
   * FinGPT: Open-Source Financial Large Language Models [arxiv 9 Jun 2023](https://arxiv.org/abs/2306.06031) [AI4Finance-Foundation/FinNLP](https://github.com/AI4Finance-Foundation/FinNLP)
   * FinVis-GPT: A Multimodal Large Language Model for Financial Chart Analysis [ (FinLLM 2023)@IJCAI 2023](https://arxiv.org/abs/2308.01430)
