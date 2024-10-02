@@ -57,6 +57,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 
 * VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters [30 Aug 2024](https://arxiv.org/abs/2408.17253) [Keytoyze/VisionTS](https://github.com/Keytoyze/VisionTS)
 * CAFO: Feature-Centric Explanation on Time Series Classification [KDD2024](https://arxiv.org/abs/2406.01833)
+* ViTime: A Visual Intelligence-Based Foundation Model for Time Series Forecasting [10 Jul 2024](https://arxiv.org/abs/2407.07311v2) [IkeYang/ViTime](https://github.com/IkeYang/ViTime)
 
 #### Multimodal large models include TS
 
@@ -104,6 +105,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts [8 Jan 2024](https://arxiv.org/abs/2401.04081) [](https://github.com/llm-random/llm-random)
 * ST-MoE: Spatio-Temporal Mixture of Experts for Multivariate Time Series Forecasting [2023ISKE](https://ieeexplore.ieee.org/abstract/document/10480934)
 * [Tutorial for Mixture of Expert (MoE) Forecasting Model — Merlion 1.1.0 documentation (salesforce.com)](https://opensource.salesforce.com/Merlion/v1.1.0/examples/advanced/2_MoE_Forecasting_tutorial.html)
+* Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts [24 Sep 2024](https://arxiv.org/abs/2409.16040) [Time-MoE](https://github.com/Time-MoE/Time-MoE)
 
 #### Mamba
 
@@ -173,6 +175,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * AI for Biomedicine in the Era of Large Language Models [23 Mar 2024](https://arxiv.org/abs/2403.15673)
 * NeuroLM: A Universal Multi-task Foundation Model for Bridging the Gap between Language and EEG Signals [27 Aug 2024](https://arxiv.org/abs/2409.00101)
 * EEG-Language Modeling for Pathology Detection [2 Sep 2024](https://arxiv.org/abs/2409.07480)
+* Interpretable and Robust AI in EEG Systems: A Survey [21 Apr 2023](https://arxiv.org/abs/2304.10755)
 
 ####  Foundation for other domains
 
@@ -220,6 +223,9 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * The Capacity and Robustness Trade-off: Revisiting the Channel Independent Strategy for Multivariate Time Series Forecasting [TKDE2024](https://arxiv.org/abs/2304.05206) [channel_independent_MTSF](https://github.com/hanlu-nju/channel_independent_MTSF)
 * Deep Time Series Models: A Comprehensive Survey and Benchmark [18 Jul 2024](https://arxiv.org/abs/2407.13278) [TSLib](https://github.com/thuml/Time-Series-Library)
 * UP2ME: Univariate Pre-training to Multivariate Fine-tuning as a General-purpose Framework for Multivariate Time Series Analysis [ICML2024](https://openreview.net/pdf?id=aR3uxWlZhX) [UP2ME](https://github.com/Thinklab-SJTU/UP2ME)
+* Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis [12 Jun 2024](https://arxiv.org/abs/2406.08627) [AdityaLab/MM-TSFlib (github.com)](https://github.com/AdityaLab/MM-TSFlib)
+* TSI-Bench: Benchmarking Time Series Imputation [18 Jun 2024](https://arxiv.org/abs/2406.12747v1) [TSI-Bench](https://github.com/WenjieDu/AwesomeImputation) 
+* Guidelines for Augmentation Selection in Contrastive Learning for Time Series Classification [12 Jul 2024](https://arxiv.org/abs/2407.09336v1) [TS-Contrastive-Augmentation-Recommendation](https://github.com/DL4mHealth/TS-Contrastive-Augmentation-Recommendation)
 
 #### Survey4TS
 
@@ -339,9 +345,23 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 
 * [Deep Learning for Mobile Health Lab](https://github.com/DL4mHealth)
 * [Mingsheng Long - Tsinghua University](http://ise.thss.tsinghua.edu.cn/~mlong/)
+* [Wu Min (google.com)](https://sites.google.com/site/wumincf/)
+  * [Emadeldeen Eldele (emadeldeen24.github.io)](https://emadeldeen24.github.io/)
+  * [Wang Yucheng - About me - Wang Yucheng (王昱程) (frank-wang-oss.github.io)](https://frank-wang-oss.github.io/)
+
+* [Ming Jin's Homepage](https://mingjin.dev/)
+
 * [Yang Yang - Zhejiang University](http://yangy.org/)
-* https://yuxuanliang.com/publications/
+* [Publications | Yuxuan Liang](https://yuxuanliang.com/publications/)
 * [北京交通大学教师名录 (bjtu.edu.cn)](http://faculty.bjtu.edu.cn/9685/)
+  * [Wen, Haomin (温浩珉) (wenhaomin.github.io)](https://wenhaomin.github.io/)
+* [Bao-Liang Lu's Home Page (sjtu.edu.cn)](https://bcmi.sjtu.edu.cn/~blu/)
+  * [Wei-Long Zheng (weilongzheng.github.io)](https://weilongzheng.github.io/)
+
+* [Xun Chen Homepage (ustc.edu.cn)](http://staff.ustc.edu.cn/~xunchen/)
+* [华中科技大学主页平台管理系统 伍冬睿--华中科技大学 脑机接口与机器学习实验室--首页 (hust.edu.cn)](http://faculty.hust.edu.cn/drwu/zh_CN/index.htm)
+* [Shenda Hong (hsd1503.github.io)](https://hsd1503.github.io/)
+* 
 * [国内外高校和企业里时空数据挖掘相关的团队有哪些？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/617528629/answer/3177883285)
 * [Xiyuan Zhang | Home](https://xiyuanzh.github.io/)
 * [Mingyue Cheng's HomePage (mingyue-cheng.github.io)](https://mingyue-cheng.github.io/)
