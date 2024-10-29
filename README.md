@@ -52,12 +52,14 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * Discussion
   * Language models still struggle to zero-shot reason about time series [17 Apr 2024](https://arxiv.org/abs/2404.11757)[TSandLanguage](https://github.com/behavioral-data/TSandLanguage)
   * Are Language Models Actually Useful for Time Series Forecasting? [22 Jun 2024](https://arxiv.org/pdf/2406.16964) [TS_Models](https://github.com/BennyTMT/TS_Models)
+  * Towards Neural Scaling Laws for Time Series Foundation Models [16 Oct 2024](https://arxiv.org/abs/2410.12360)
 
 #### Vision4TS
 
 * VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters [30 Aug 2024](https://arxiv.org/abs/2408.17253) [Keytoyze/VisionTS](https://github.com/Keytoyze/VisionTS)
 * CAFO: Feature-Centric Explanation on Time Series Classification [KDD2024](https://arxiv.org/abs/2406.01833)
 * ViTime: A Visual Intelligence-Based Foundation Model for Time Series Forecasting [10 Jul 2024](https://arxiv.org/abs/2407.07311v2) [IkeYang/ViTime](https://github.com/IkeYang/ViTime)
+* Hierarchical Context Representation and Self-Adaptive Thresholding for Multivariate Anomaly Detection [TKDE2024](https://ieeexplore.ieee.org/document/10417809)
 
 #### Multimodal large models include TS
 
@@ -148,6 +150,11 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * Unlocking the Power of LSTM for Long Term Time Series Forecasting [19 Aug 2024](https://arxiv.org/abs/2408.10006) 
 * TransNeXt: Robust Foveal Visual Perception for Vision Transformers [CVPR2024](https://arxiv.org/abs/2311.17132)
 
+#### Federated learning
+
+* PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection [SIGKDD 2024](https://arxiv.org/abs/2406.02318) [PeFAD](https://github.com/xu737/PeFAD)
+* Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting [NeurIPS24 ](https://arxiv.org/abs/2405.14252) []()
+
 #### Biosignal dataset
 
 * Neuro-GPT: Developing A Foundation Model for EEG [arxiv 7 Nov 2023](https://arxiv.org/abs/2311.03764)
@@ -176,6 +183,9 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * NeuroLM: A Universal Multi-task Foundation Model for Bridging the Gap between Language and EEG Signals [27 Aug 2024](https://arxiv.org/abs/2409.00101)
 * EEG-Language Modeling for Pathology Detection [2 Sep 2024](https://arxiv.org/abs/2409.07480)
 * Interpretable and Robust AI in EEG Systems: A Survey [21 Apr 2023](https://arxiv.org/abs/2304.10755)
+* A Survey of Spatio-Temporal EEG data Analysis: from Models to Applications [26 Sep 2024](https://arxiv.org/abs/2410.08224)
+* NeuroLM: A Universal Multi-task Foundation Model for Bridging the Gap between Language and EEG Signals [27 Aug 2024](https://arxiv.org/abs/2409.00101)
+* Repurposing Foundation Model for Generalizable Medical Time Series Classification [3 Oct 2024](https://arxiv.org/abs/2410.03794)
 
 ####  Foundation for other domains
 
@@ -213,6 +223,13 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
     Forecasting by Leveraging Spatio-Temporal Context [1 Jun 2023](https://arxiv.org/abs/2306.01112) [CrossViVit](https://github.com/gitbooo/CrossViVit)
   * DualTime: A Dual-Adapter Multimodal Language Model for Time Series Representation [7 Jun 2024](https://arxiv.org/abs/2406.06620)
 
+#### Small && Efficient Language Model
+
+* Mipha: A Comprehensive Overhaul of Multimodal Assistant with Small Language Models [*10 Mar 2024*](https://arxiv.org/abs/2403.06199) [LLaVA-Phi](https://github.com/zhuyiche/llava-phi)
+* Efficient Multimodal Large Language Models:A Survey [17 May 2024](https://arxiv.org/abs/2405.10739) [swordlidev/Efficient-Multimodal-LLMs-Survey](https://github.com/swordlidev/Efficient-Multimodal-LLMs-Survey)
+* On-Device Language Models: A Comprehensive Review [26 Aug 2024](https://arxiv.org/abs/2409.00088) [NexaAI/Awesome-LLMs-on-device](https://github.com/NexaAI/Awesome-LLMs-on-device)
+* Small Language Models: Survey, Measurements, and Insights [24 Sep 2024](https://arxiv.org/abs/2409.15790) [UbiquitousLearning/SLM_Survey](https://github.com/UbiquitousLearning/SLM_Survey)
+
 #### Benchmark && Analysis 
 
 * TS-Benchmark: A Benchmark for Time Series Databases [ICDE2021](https://ieeexplore.ieee.org/abstract/document/9458659)
@@ -226,6 +243,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis [12 Jun 2024](https://arxiv.org/abs/2406.08627) [AdityaLab/MM-TSFlib (github.com)](https://github.com/AdityaLab/MM-TSFlib)
 * TSI-Bench: Benchmarking Time Series Imputation [18 Jun 2024](https://arxiv.org/abs/2406.12747v1) [TSI-Bench](https://github.com/WenjieDu/AwesomeImputation) 
 * Guidelines for Augmentation Selection in Contrastive Learning for Time Series Classification [12 Jul 2024](https://arxiv.org/abs/2407.09336v1) [TS-Contrastive-Augmentation-Recommendation](https://github.com/DL4mHealth/TS-Contrastive-Augmentation-Recommendation)
+*  FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting [15 Oct 2024](https://arxiv.org/abs/2410.11802) [FoundTS-C2B0](https://anonymous.4open.science/r/FoundTS-C2B0/README.md)
 
 #### Survey4TS
 
@@ -280,6 +298,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * A Survey of Deep Learning and Foundation Models for Time Series Forecasting [25 Jan 2024](https://arxiv.org/abs/2401.13912)
   * Foundation Models for Time Series Analysis: A Tutorial and Survey [21 Mar 2024](https://arxiv.org/abs/2403.14735)
   * Heterogeneous Contrastive Learning for Foundation Models and Beyond [30 Mar 2024](https://arxiv.org/abs/2404.00225)
+  * A Comprehensive Survey of Large Language Models and Multimodal Large Language Models in Medicine [14 May 2024](https://arxiv.org/abs/2405.08603)
 *  Application
 
   * Deep Learning for Multivariate Time Series Imputation: A Survey [6 Feb 2024](https://arxiv.org/abs/2402.04059) [WenjieDu/Awesome_Imputation](https://github.com/WenjieDu/Awesome_Imputation)
