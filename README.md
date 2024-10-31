@@ -185,7 +185,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * Interpretable and Robust AI in EEG Systems: A Survey [21 Apr 2023](https://arxiv.org/abs/2304.10755)
 * A Survey of Spatio-Temporal EEG data Analysis: from Models to Applications [26 Sep 2024](https://arxiv.org/abs/2410.08224)
 * NeuroLM: A Universal Multi-task Foundation Model for Bridging the Gap between Language and EEG Signals [27 Aug 2024](https://arxiv.org/abs/2409.00101)
-* Repurposing Foundation Model for Generalizable Medical Time Series Classification [3 Oct 2024](https://arxiv.org/abs/2410.03794)
+* Repurposing Foundation Model for Generalizable Medical Time Series Classification [3 Oct 2024](https://arxiv.org/abs/2410.03794) [FORMED](https://github.com/DL4mHealth/FORMED)
 
 ####  Foundation for other domains
 
@@ -244,6 +244,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * TSI-Bench: Benchmarking Time Series Imputation [18 Jun 2024](https://arxiv.org/abs/2406.12747v1) [TSI-Bench](https://github.com/WenjieDu/AwesomeImputation) 
 * Guidelines for Augmentation Selection in Contrastive Learning for Time Series Classification [12 Jul 2024](https://arxiv.org/abs/2407.09336v1) [TS-Contrastive-Augmentation-Recommendation](https://github.com/DL4mHealth/TS-Contrastive-Augmentation-Recommendation)
 *  FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting [15 Oct 2024](https://arxiv.org/abs/2410.11802) [FoundTS-C2B0](https://anonymous.4open.science/r/FoundTS-C2B0/README.md)
+*  LibEER: A Comprehensive Benchmark and Algorithm Library for EEG-based Emotion Recognition [13 Oct 2024](https://arxiv.org/abs/2410.09767) [LibEER](https://github.com/ButterSen/LibEER)
 
 #### Survey4TS
 
@@ -360,31 +361,41 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * [Huggingface 镜像站](https://hf-mirror.com/)
 * 
 
-#### Laboratory
+* https://mingyue-cheng.github.io/)
 
-* [Deep Learning for Mobile Health Lab](https://github.com/DL4mHealth)
-* [Mingsheng Long - Tsinghua University](http://ise.thss.tsinghua.edu.cn/~mlong/)
-* [Wu Min (google.com)](https://sites.google.com/site/wumincf/)
-  * [Emadeldeen Eldele (emadeldeen24.github.io)](https://emadeldeen24.github.io/)
-  * [Wang Yucheng - About me - Wang Yucheng (王昱程) (frank-wang-oss.github.io)](https://frank-wang-oss.github.io/)
+#### Laboratory and Researcher Resources
 
-* [Ming Jin's Homepage](https://mingjin.dev/)
+##### Medicine Domain
 
-* [Yang Yang - Zhejiang University](http://yangy.org/)
-* [Publications | Yuxuan Liang](https://yuxuanliang.com/publications/)
-* [北京交通大学教师名录 (bjtu.edu.cn)](http://faculty.bjtu.edu.cn/9685/)
-  * [Wen, Haomin (温浩珉) (wenhaomin.github.io)](https://wenhaomin.github.io/)
-* [Bao-Liang Lu's Home Page (sjtu.edu.cn)](https://bcmi.sjtu.edu.cn/~blu/)
-  * [Wei-Long Zheng (weilongzheng.github.io)](https://weilongzheng.github.io/)
+- **HuiguangHe ** - [Chinese Academy of Sciences, Institute of Automation](https://ia.cas.cn/rcdw/yjy/202404/t20240422_7130925.html)
+  - **Changde Du** - [Personal Homepage](https://changdedu.github.io/)
 
-* [Xun Chen Homepage (ustc.edu.cn)](http://staff.ustc.edu.cn/~xunchen/)
-* [华中科技大学主页平台管理系统 伍冬睿--华中科技大学 脑机接口与机器学习实验室--首页 (hust.edu.cn)](http://faculty.hust.edu.cn/drwu/zh_CN/index.htm)
-* [Shenda Hong (hsd1503.github.io)](https://hsd1503.github.io/)
-* 
-* [国内外高校和企业里时空数据挖掘相关的团队有哪些？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/617528629/answer/3177883285)
-* [Xiyuan Zhang | Home](https://xiyuanzh.github.io/)
-* [Mingyue Cheng's HomePage (mingyue-cheng.github.io)](https://mingyue-cheng.github.io/)
-* 
+- **Bao-Liang Lu** - [Home Page](https://bcmi.sjtu.edu.cn/~blu/)
+  - **Wei-Long Zheng** - [Personal Homepage](https://weilongzheng.github.io/)
+- **Xun Chen** - [University of Science and Technology of China](http://staff.ustc.edu.cn/~xunchen/)
+- **DongruiWu ** - [Huazhong University of Science and Technology, Brain-Computer Interface and Machine Learning Lab](http://faculty.hust.edu.cn/drwu/zh_CN/index.htm)
+- **Yang Yang** - [Zhejiang University](http://yangy.org/)
+- **Shenda Hong** - [Personal Homepage](https://hsd1503.github.io/)
+- **Xiang Zhang ** [Personal Homepage](https://xiangzhang.info/)
+
+##### General Domain
+
+- **Mingsheng Long** - [Tsinghua University](http://ise.thss.tsinghua.edu.cn/~mlong/)
+- **Huaiyu Wan**  [Publications](https://scholar.google.com/citations?hl=zh-CN&user=T5wVWIUAAAAJ)
+  - **Shengnan Guo** - [Faculty Directory](http://faculty.bjtu.edu.cn/9685/)
+  - **Haomin Wen ** - [Personal Homepage](https://wenhaomin.github.io/)
+- **MinWu ** - [Google Site](https://sites.google.com/site/wumincf/)
+  - **Emadeldeen Eldele** - [Personal Homepage](https://emadeldeen24.github.io/)
+  - **Yucheng Wang ** - [Personal Homepage](https://frank-wang-oss.github.io/)
+- **Ming Jin** - [Home Page](https://mingjin.dev/)
+- **Yuxuan Liang** - [Publications](https://yuxuanliang.com/publications/)
+- **Xiyuan Zhang** - [Home Page](https://xiyuanzh.github.io/)
+- **Mingyue Cheng** - [Home Page](https://mingyue-cheng.github.io/)
+
+##### Lab and Resource
+
+- **Deep Learning for Mobile Health Lab** - [GitHub Repository](https://github.com/DL4mHealth)
+- **Temporal and Spatial Data Mining Research Teams** - [Zhihu Discussion](https://www.zhihu.com/question/617528629/answer/3177883285)
 
 ### Course
 
