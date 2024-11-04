@@ -108,8 +108,18 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * ST-MoE: Spatio-Temporal Mixture of Experts for Multivariate Time Series Forecasting [2023ISKE](https://ieeexplore.ieee.org/abstract/document/10480934)
 * [Tutorial for Mixture of Expert (MoE) Forecasting Model — Merlion 1.1.0 documentation (salesforce.com)](https://opensource.salesforce.com/Merlion/v1.1.0/examples/advanced/2_MoE_Forecasting_tutorial.html)
 * Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts [24 Sep 2024](https://arxiv.org/abs/2409.16040) [Time-MoE](https://github.com/Time-MoE/Time-MoE)
+* Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts [14 Oct 2024](https://arxiv.org/abs/2410.10469v1) 
 
-#### Mamba
+#### PEFT for TS
+
+* One Fits All: Universal Time Series Analysis by Pretrained LM and Specially Designed Adaptors [24 Nov 2023](https://arxiv.org/abs/2311.14782) [GPT4TS_Adapter](https://github.com/PSacfc/GPT4TS_Adapter)
+* Low-Rank Adaptation of Time Series Foundational Models for Out-of-Domain Modality Forecasting [16 May 2024](https://arxiv.org/abs/2405.10216)
+* Personalized Adapter for Large Meteorology Model on Devices: Towards Weather Foundation Models [24 May 2024](https://arxiv.org/abs/2405.20348)
+* DualTime: A Dual-Adapter Multimodal Language Model for Time Series Representation [7 Jun 2024](https://arxiv.org/abs/2410.10469v1)
+* Channel-Aware Low-Rank Adaptation in Time Series Forecasting [CIKM2024](https://dl.acm.org/doi/abs/10.1145/3627673.3679884) [C-LoRA](https://github.com/tongnie/C-LoRA)
+* 
+
+#### Mamba 
 
 * Is Mamba Effective for Time Series Forecasting? [17 Mar 2024](https://arxiv.org/abs/2403.11144) [wzhwzhwzh0921/S-D-Mamba](https://github.com/wzhwzhwzh0921/S-D-Mamba)
 * TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting [14 Mar 2024](https://arxiv.org/abs/2403.09898) [Atik-Ahamed/TimeMachine](https://github.com/Atik-Ahamed/TimeMachine)
