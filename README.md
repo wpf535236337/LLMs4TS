@@ -1,6 +1,6 @@
 # AI4TS
 
-Awesome resources focus on the application of cutting-edge AI technologies for time-series analysis (**AI4TS **). They delve into advanced topics such as self-supervised learning (**SSL**), Graph Neural Networks for Time Series (**GNN4TS**), Large Language Models for Time Series (**LLM4TS**), **Diffusion** models, Mixture-of-Experts (**MoE**) architectures and **Mamba** models, Kolmogorov Arnold Networks (**KAN**),  Learn at Test Time (**TTT**) among others. These resources span various domains, including healthcare, finance, and traffic, offering a comprehensive view of the field. In addition, they feature top-notch tutorials, courses, and workshops from prestigious conferences, hosted by globally renowned scholars and research teams. Whether you're a professional, data scientist, or researcher, these tools and techniques can significantly enhance your time-series data analysis capabilities, providing a clear roadmap for your studies.
+Awesome resources focus on the application of cutting-edge AI technologies for time-series analysis (**AI4TS**). They delve into advanced topics such as self-supervised learning (**SSL**), Graph Neural Networks for Time Series (**GNN4TS**), Large Language Models for Time Series (**LLM4TS**), **Diffusion** models, Mixture-of-Experts (**MoE**) architectures and **Mamba** models, Kolmogorov Arnold Networks (**KAN**),  Learn at Test Time (**TTT**) among others. These resources span various domains, including healthcare, finance, and traffic, offering a comprehensive view of the field. In addition, they feature top-notch tutorials, courses, and workshops from prestigious conferences, hosted by globally renowned scholars and research teams. Whether you're a professional, data scientist, or researcher, these tools and techniques can significantly enhance your time-series data analysis capabilities, providing a clear roadmap for your studies.
 
 #### LLM4TS
 
@@ -53,6 +53,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * Language models still struggle to zero-shot reason about time series [17 Apr 2024](https://arxiv.org/abs/2404.11757)[TSandLanguage](https://github.com/behavioral-data/TSandLanguage)
   * Are Language Models Actually Useful for Time Series Forecasting? [22 Jun 2024](https://arxiv.org/pdf/2406.16964) [TS_Models](https://github.com/BennyTMT/TS_Models)
   * Towards Neural Scaling Laws for Time Series Foundation Models [16 Oct 2024](https://arxiv.org/abs/2410.12360)
+  * Revisited Large Language Model for Time Series Analysis through Modality Alignment [16 Oct 2024](https://arxiv.org/abs/2410.12326)
 
 #### Vision4TS
 
@@ -60,6 +61,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * CAFO: Feature-Centric Explanation on Time Series Classification [KDD2024](https://arxiv.org/abs/2406.01833)
 * ViTime: A Visual Intelligence-Based Foundation Model for Time Series Forecasting [10 Jul 2024](https://arxiv.org/abs/2407.07311v2) [IkeYang/ViTime](https://github.com/IkeYang/ViTime)
 * Hierarchical Context Representation and Self-Adaptive Thresholding for Multivariate Anomaly Detection [TKDE2024](https://ieeexplore.ieee.org/document/10417809)
+* Training-Free Time-Series Anomaly Detection: Leveraging Image Foundation Models [27 Aug 2024](https://arxiv.org/abs/2408.14756)
 
 #### Multimodal large models include TS
 
@@ -196,6 +198,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * A Survey of Spatio-Temporal EEG data Analysis: from Models to Applications [26 Sep 2024](https://arxiv.org/abs/2410.08224)
 * NeuroLM: A Universal Multi-task Foundation Model for Bridging the Gap between Language and EEG Signals [27 Aug 2024](https://arxiv.org/abs/2409.00101)
 * Repurposing Foundation Model for Generalizable Medical Time Series Classification [3 Oct 2024](https://arxiv.org/abs/2410.03794) [FORMED](https://github.com/DL4mHealth/FORMED)
+* A Survey of Few-Shot Learning for Biomedical Time Series [3 May 2024](https://arxiv.org/abs/2405.02485)
 
 ####  Foundation for other domains
 
@@ -377,26 +380,26 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 
 ##### Medicine Domain
 
-- **HuiguangHe ** - [Chinese Academy of Sciences, Institute of Automation](https://ia.cas.cn/rcdw/yjy/202404/t20240422_7130925.html)
+- **HuiguangHe** - [Chinese Academy of Sciences, Institute of Automation](https://ia.cas.cn/rcdw/yjy/202404/t20240422_7130925.html)
   - **Changde Du** - [Personal Homepage](https://changdedu.github.io/)
 
 - **Bao-Liang Lu** - [Home Page](https://bcmi.sjtu.edu.cn/~blu/)
   - **Wei-Long Zheng** - [Personal Homepage](https://weilongzheng.github.io/)
 - **Xun Chen** - [University of Science and Technology of China](http://staff.ustc.edu.cn/~xunchen/)
-- **DongruiWu ** - [Huazhong University of Science and Technology, Brain-Computer Interface and Machine Learning Lab](http://faculty.hust.edu.cn/drwu/zh_CN/index.htm)
+- **DongruiWu** - [Huazhong University of Science and Technology, Brain-Computer Interface and Machine Learning Lab](http://faculty.hust.edu.cn/drwu/zh_CN/index.htm)
 - **Yang Yang** - [Zhejiang University](http://yangy.org/)
 - **Shenda Hong** - [Personal Homepage](https://hsd1503.github.io/)
-- **Xiang Zhang ** [Personal Homepage](https://xiangzhang.info/)
+- **Xiang Zhang** [Personal Homepage](https://xiangzhang.info/)
 
 ##### General Domain
 
 - **Mingsheng Long** - [Tsinghua University](http://ise.thss.tsinghua.edu.cn/~mlong/)
 - **Huaiyu Wan**  [Publications](https://scholar.google.com/citations?hl=zh-CN&user=T5wVWIUAAAAJ)
   - **Shengnan Guo** - [Faculty Directory](http://faculty.bjtu.edu.cn/9685/)
-  - **Haomin Wen ** - [Personal Homepage](https://wenhaomin.github.io/)
+  - **Haomin Wen** - [Personal Homepage](https://wenhaomin.github.io/)
 - **MinWu ** - [Google Site](https://sites.google.com/site/wumincf/)
   - **Emadeldeen Eldele** - [Personal Homepage](https://emadeldeen24.github.io/)
-  - **Yucheng Wang ** - [Personal Homepage](https://frank-wang-oss.github.io/)
+  - **Yucheng Wang** - [Personal Homepage](https://frank-wang-oss.github.io/)
 - **Ming Jin** - [Home Page](https://mingjin.dev/)
 - **Yuxuan Liang** - [Publications](https://yuxuanliang.com/publications/)
 - **Xiyuan Zhang** - [Home Page](https://xiyuanzh.github.io/)
