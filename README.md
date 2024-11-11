@@ -57,6 +57,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 
 #### Vision4TS
 
+* Time Series as Images: Vision Transformer for Irregularly Sampled Time Series [Neurips 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/9a17c1eb808cf012065e9db47b7ca80d-Paper-Conference.pdf) [ViTST](https://github.com/Leezekun/ViTST)
 * VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters [30 Aug 2024](https://arxiv.org/abs/2408.17253) [Keytoyze/VisionTS](https://github.com/Keytoyze/VisionTS)
 * CAFO: Feature-Centric Explanation on Time Series Classification [KDD2024](https://arxiv.org/abs/2406.01833)
 * ViTime: A Visual Intelligence-Based Foundation Model for Time Series Forecasting [10 Jul 2024](https://arxiv.org/abs/2407.07311v2) [IkeYang/ViTime](https://github.com/IkeYang/ViTime)
@@ -258,6 +259,8 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * Guidelines for Augmentation Selection in Contrastive Learning for Time Series Classification [12 Jul 2024](https://arxiv.org/abs/2407.09336v1) [TS-Contrastive-Augmentation-Recommendation](https://github.com/DL4mHealth/TS-Contrastive-Augmentation-Recommendation)
 *  FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting [15 Oct 2024](https://arxiv.org/abs/2410.11802) [FoundTS-C2B0](https://anonymous.4open.science/r/FoundTS-C2B0/README.md)
 *  LibEER: A Comprehensive Benchmark and Algorithm Library for EEG-based Emotion Recognition [13 Oct 2024](https://arxiv.org/abs/2410.09767) [LibEER](https://github.com/ButterSen/LibEER)
+*  Evaluating Large Language Models on Time Series Feature Understanding: A Comprehensive Taxonomy and Benchmark [EMNLP2024](https://arxiv.org/abs/2404.16563)
+*  GIFT-Eval: A Benchmark For General Time Series Forecasting Model Evaluation [14 Oct 2024](https://arxiv.org/abs/2410.10393) [GIFT-Eval](https://github.com/SalesforceAIResearch/gift-eval)
 
 #### Survey4TS
 
