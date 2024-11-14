@@ -132,6 +132,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models [8 May 2024](https://arxiv.org/abs/2405.04909)
 * Time-SSM: Simplifying and Unifying State Space Models for Time Series Forecasting [25 May 2024](https://arxiv.org/abs/2405.16312)
 * TSCMamba: Mamba Meets Multi-View Learning for Time Series Classification [6 Jun 2024](https://arxiv.org/abs/2406.04419)
+* A Mamba Foundation Model for Time Series Forecasting [5 Nov 2024](https://arxiv.org/abs/2411.02941)
 
 #### KAN
 
