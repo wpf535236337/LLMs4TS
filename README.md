@@ -54,6 +54,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * Are Language Models Actually Useful for Time Series Forecasting? [22 Jun 2024](https://arxiv.org/pdf/2406.16964) [TS_Models](https://github.com/BennyTMT/TS_Models)
   * Towards Neural Scaling Laws for Time Series Foundation Models [16 Oct 2024](https://arxiv.org/abs/2410.12360)
   * Revisited Large Language Model for Time Series Analysis through Modality Alignment [16 Oct 2024](https://arxiv.org/abs/2410.12326)
+  * Exploring Capabilities of Time Series Foundation Models in Building Analytics [28 Oct 2024](https://arxiv.org/abs/2411.08888)
 
 #### Vision4TS
 
@@ -63,6 +64,9 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * ViTime: A Visual Intelligence-Based Foundation Model for Time Series Forecasting [10 Jul 2024](https://arxiv.org/abs/2407.07311v2) [IkeYang/ViTime](https://github.com/IkeYang/ViTime)
 * Hierarchical Context Representation and Self-Adaptive Thresholding for Multivariate Anomaly Detection [TKDE2024](https://ieeexplore.ieee.org/document/10417809)
 * Training-Free Time-Series Anomaly Detection: Leveraging Image Foundation Models [27 Aug 2024](https://arxiv.org/abs/2408.14756)
+* Plots Unlock Time-Series Understanding in Multimodal Models [*3 Oct 2024*](https://arxiv.org/abs/2410.02637)
+* Vision-Enhanced Time Series Forecasting by Decomposed Feature Extraction and Composed Reconstruction [submit ICLR2025](https://openreview.net/forum?id=DcG4YnbOT3)
+* 
 
 #### Multimodal large models include TS
 
