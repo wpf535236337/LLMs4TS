@@ -26,14 +26,19 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning [12 Mar 2024](https://arxiv.org/abs/2403.07300) [CALF](https://github.com/Hank0626/CALF)
   * TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment [3 Jun 2024](https://arxiv.org/abs/2406.01638)
   * TS-TCD: Triplet-Level Cross-Modal Distillation for Time-Series Forecasting Using Large Language Models [23 Sep 2024](https://arxiv.org/abs/2409.14978)
+  * VITRO: Vocabulary Inversion for Time-series Representation Optimization [ICASSP2025](https://arxiv.org/abs/2412.17921)
 * Anomaly Detection
   * Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection [26 Jan 2024](https://arxiv.org/abs/2401.15123) [AnomalyLLM](https://github.com/fly-orange/AnomalyLLM/tree/main)
   * Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review [15 Feb 2024](https://arxiv.org/abs/2402.10350)
   * Large language models can be zero-shot anomaly detectors for time series?  [*23 May 2024*](https://arxiv.org/abs/2405.14755)
   * PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection [KDD2024](https://arxiv.org/abs/2406.02318)
+  * See it, Think it, Sorted: Large Multimodal Models are Few-shot Time Series Anomaly Analyzers [*4 Nov 2024*](https://arxiv.org/abs/2411.02465)
 * Imputation 
   * GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation [24 Nov 2023](https://arxiv.org/abs/2311.14332)
   * NuwaTS: a Foundation Model Mending Every Incomplete Time Series [24 May 2024](https://arxiv.org/abs/2405.15317) [Chengyui/NuwaTS](https://github.com/Chengyui/NuwaTS)
+* classification
+  * TableTime: Reformulating Time Series Classification as Zero-Shot Table Understanding via Large Language Models [24 Nov 2024](https://arxiv.org/abs/2411.15737) [tabletime](https://github.com/realwangjiahao/tabletime)
+
 * Spatio-temporal prediction
   * Spatio-Temporal Graph Learning with Large Language Model [20 Sept 2023](https://openreview.net/forum?id=QUkcfqa6GX)
   * How Can Large Language Models Understand Spatial-Temporal Data? [25 Jan 2024](https://arxiv.org/abs/2401.14192)
@@ -55,6 +60,11 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * Towards Neural Scaling Laws for Time Series Foundation Models [16 Oct 2024](https://arxiv.org/abs/2410.12360)
   * Revisited Large Language Model for Time Series Analysis through Modality Alignment [16 Oct 2024](https://arxiv.org/abs/2410.12326)
   * Exploring Capabilities of Time Series Foundation Models in Building Analytics [28 Oct 2024](https://arxiv.org/abs/2411.08888)
+  * [Fundamental limitations of foundational forecasting models-The need for multimodality and rigorous evaluation](https://cbergmeir.com/talks/bergmeir2024NeurIPSInvTalk.pdf) **2024NeurIPSInvTalk**
+* Reasoning
+  * ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning [4 Dec 2024](https://arxiv.org/abs/2412.03104)
+  * 
+
 
 #### Vision4TS
 
@@ -66,7 +76,10 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * Training-Free Time-Series Anomaly Detection: Leveraging Image Foundation Models [27 Aug 2024](https://arxiv.org/abs/2408.14756)
 * Plots Unlock Time-Series Understanding in Multimodal Models [*3 Oct 2024*](https://arxiv.org/abs/2410.02637)
 * Vision-Enhanced Time Series Forecasting by Decomposed Feature Extraction and Composed Reconstruction [submit ICLR2025](https://openreview.net/forum?id=DcG4YnbOT3)
-* 
+
+#### Multimodal time 
+
+* ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data [AAAI2025](https://arxiv.org/abs/2412.11376) [ChatTime](https://github.com/ForestsKing/ChatTime)
 
 #### Multimodal large models include TS
 
@@ -205,6 +218,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * NeuroLM: A Universal Multi-task Foundation Model for Bridging the Gap between Language and EEG Signals [27 Aug 2024](https://arxiv.org/abs/2409.00101)
 * Repurposing Foundation Model for Generalizable Medical Time Series Classification [3 Oct 2024](https://arxiv.org/abs/2410.03794) [FORMED](https://github.com/DL4mHealth/FORMED)
 * A Survey of Few-Shot Learning for Biomedical Time Series [3 May 2024](https://arxiv.org/abs/2405.02485)
+* CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding [10 Dec 2024](https://arxiv.org/abs/2412.07236) [CBraMod](https://github.com/wjq-learning/CBraMod/tree/main)
 
 ####  Foundation for other domains
 
@@ -266,6 +280,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 *  LibEER: A Comprehensive Benchmark and Algorithm Library for EEG-based Emotion Recognition [13 Oct 2024](https://arxiv.org/abs/2410.09767) [LibEER](https://github.com/ButterSen/LibEER)
 *  Evaluating Large Language Models on Time Series Feature Understanding: A Comprehensive Taxonomy and Benchmark [EMNLP2024](https://arxiv.org/abs/2404.16563)
 *  GIFT-Eval: A Benchmark For General Time Series Forecasting Model Evaluation [14 Oct 2024](https://arxiv.org/abs/2410.10393) [GIFT-Eval](https://github.com/SalesforceAIResearch/gift-eval)
+*  AD-LLM: Benchmarking Large Language Models for Anomaly Detection [15 Dec 2024](https://arxiv.org/abs/2412.11142) [AD-LLM](https://github.com/USC-FORTIS/AD-LLM)
 
 #### Survey4TS
 
@@ -333,7 +348,8 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 #### Workshop
 
 * [MulTiSA 2024 | MultiTISA 2024](http://multisa2024.org//)  *in conjunction with ICDE'24*
-* 
+* [Time Series in the Age of Large Models](https://neurips-time-series-workshop.github.io/) in  NeurIPS'2024
+* [KDD2024 - Frontiers of Foundation Models for Time Series](https://www.youtube.com/watch?v=1BzTfyJZM5w)
 
 #### Project
 
@@ -380,9 +396,6 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * [Anomaly Detection in Time Series using ChatGPT]( https://medium.com/@sztistvan/anomaly-detection-in-time-series-using-chatgpt-3fc48f958c88)
 * [Change Point Detection in Time Series using ChatGPT](https://medium.com/@sztistvan/change-point-detection-in-time-series-using-chatgpt-22cc9172a130)
 * [Huggingface 镜像站](https://hf-mirror.com/)
-* 
-
-* https://mingyue-cheng.github.io/)
 
 #### Laboratory and Researcher Resources
 
