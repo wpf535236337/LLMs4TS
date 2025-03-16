@@ -63,6 +63,11 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * [Fundamental limitations of foundational forecasting models-The need for multimodality and rigorous evaluation](https://cbergmeir.com/talks/bergmeir2024NeurIPSInvTalk.pdf) **2024NeurIPSInvTalk**
 * Reasoning
   * ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning [4 Dec 2024](https://arxiv.org/abs/2412.03104)
+  * Position: Empowering Time Series Reasoning with Multimodal LLMs [3 Feb 2025](https://arxiv.org/abs/2502.01477)
+  * Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop [2 Mar 2025](https://arxiv.org/abs/2503.01013)
+  * TempoGPT: Enhancing Time Series Reasoning via Quantizing Embedding [13 Jan 2025 ](https://arxiv.org/abs/2501.07335)
+  * Beyond Forecasting: Compositional Time Series Reasoning for End-to-End Task Execution [5 Oct 2024](https://arxiv.org/abs/2410.04047v1)
+  * Towards Time-Series Reasoning with LLMs [2024 NeurIPS Workshop](https://arxiv.org/abs/2409.11376)
   * 
 
 
@@ -76,10 +81,14 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * Training-Free Time-Series Anomaly Detection: Leveraging Image Foundation Models [27 Aug 2024](https://arxiv.org/abs/2408.14756)
 * Plots Unlock Time-Series Understanding in Multimodal Models [*3 Oct 2024*](https://arxiv.org/abs/2410.02637)
 * Vision-Enhanced Time Series Forecasting by Decomposed Feature Extraction and Composed Reconstruction [submit ICLR2025](https://openreview.net/forum?id=DcG4YnbOT3)
+* Vision-Enhanced Time Series Forecasting via Latent Diffusion Models [16 Feb 2025](https://arxiv.org/abs/2502.14887)
+* Harnessing Vision Models for Time Series Analysis: A Survey [13 Feb 2025](https://arxiv.org/abs/2502.08869)
+* 
 
 #### Multimodal time 
 
 * ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data [AAAI2025](https://arxiv.org/abs/2412.11376) [ChatTime](https://github.com/ForestsKing/ChatTime)
+* Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting [6 Feb 2025](https://arxiv.org/abs/2502.04395)
 
 #### Multimodal large models include TS
 
@@ -197,8 +206,8 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * BIOT: Cross-data Biosignal Learning in the Wild [NeurIPS23](https://arxiv.org/abs/2305.10351) [BIOT](https://github.com/ycq091044/BIOT)
 * Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI [submit ICLR 2024](https://openreview.net/forum?id=QzTpTRVtrP)
 * Practical intelligent diagnostic algorithm for wearable 12-lead ECG via self-supervised learning on large-scale dataset [Nature Communications 2023](https://www.nature.com/articles/s41467-023-39472-8)
-*  Large AI Models in Health Informatics: Applications, Challenges, and the Future [IEEE Journal of Biomedical and Health Informatics](https://arxiv.org/abs/2303.11568) [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
-*  Data science opportunities of large language models for neuroscience and biomedicine [Neuron](https://www.sciencedirect.com/science/article/pii/S0896627324000424)
+* Large AI Models in Health Informatics: Applications, Challenges, and the Future [IEEE Journal of Biomedical and Health Informatics](https://arxiv.org/abs/2303.11568) [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
+* Data science opportunities of large language models for neuroscience and biomedicine [Neuron](https://www.sciencedirect.com/science/article/pii/S0896627324000424)
 * BioSignal Copilot: Leveraging the power of LLMs in drafting reports
   for biomedical signals [July 06, 2023](https://www.medrxiv.org/content/10.1101/2023.06.28.23291916v1)
 * Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data [12 Jan 2024](https://arxiv.org/abs/2401.06866)
@@ -276,35 +285,36 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis [12 Jun 2024](https://arxiv.org/abs/2406.08627) [AdityaLab/MM-TSFlib (github.com)](https://github.com/AdityaLab/MM-TSFlib)
 * TSI-Bench: Benchmarking Time Series Imputation [18 Jun 2024](https://arxiv.org/abs/2406.12747v1) [TSI-Bench](https://github.com/WenjieDu/AwesomeImputation) 
 * Guidelines for Augmentation Selection in Contrastive Learning for Time Series Classification [12 Jul 2024](https://arxiv.org/abs/2407.09336v1) [TS-Contrastive-Augmentation-Recommendation](https://github.com/DL4mHealth/TS-Contrastive-Augmentation-Recommendation)
-*  FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting [15 Oct 2024](https://arxiv.org/abs/2410.11802) [FoundTS-C2B0](https://anonymous.4open.science/r/FoundTS-C2B0/README.md)
-*  LibEER: A Comprehensive Benchmark and Algorithm Library for EEG-based Emotion Recognition [13 Oct 2024](https://arxiv.org/abs/2410.09767) [LibEER](https://github.com/ButterSen/LibEER)
-*  Evaluating Large Language Models on Time Series Feature Understanding: A Comprehensive Taxonomy and Benchmark [EMNLP2024](https://arxiv.org/abs/2404.16563)
-*  GIFT-Eval: A Benchmark For General Time Series Forecasting Model Evaluation [14 Oct 2024](https://arxiv.org/abs/2410.10393) [GIFT-Eval](https://github.com/SalesforceAIResearch/gift-eval)
-*  AD-LLM: Benchmarking Large Language Models for Anomaly Detection [15 Dec 2024](https://arxiv.org/abs/2412.11142) [AD-LLM](https://github.com/USC-FORTIS/AD-LLM)
+* FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting [15 Oct 2024](https://arxiv.org/abs/2410.11802) [FoundTS-C2B0](https://anonymous.4open.science/r/FoundTS-C2B0/README.md)
+* LibEER: A Comprehensive Benchmark and Algorithm Library for EEG-based Emotion Recognition [13 Oct 2024](https://arxiv.org/abs/2410.09767) [LibEER](https://github.com/ButterSen/LibEER)
+* Evaluating Large Language Models on Time Series Feature Understanding: A Comprehensive Taxonomy and Benchmark [EMNLP2024](https://arxiv.org/abs/2404.16563)
+* GIFT-Eval: A Benchmark For General Time Series Forecasting Model Evaluation [14 Oct 2024](https://arxiv.org/abs/2410.10393) [GIFT-Eval](https://github.com/SalesforceAIResearch/gift-eval)
+* AD-LLM: Benchmarking Large Language Models for Anomaly Detection [15 Dec 2024](https://arxiv.org/abs/2412.11142) [AD-LLM](https://github.com/USC-FORTIS/AD-LLM)
+* Context is Key: A Benchmark for Forecasting with Essential Textual Information [24 Oct 2024](https://arxiv.org/abs/2410.18959)
 
 #### Survey4TS
 
 *  Representation learning(self-supervised learning && Semi-supervised learning&&Supervised learning)
 
-  * Self-supervised Contrastive Representation Learning for Semi-supervised Time-Series Classification [TPAMI 13 Aug 2022](https://arxiv.org/abs/2208.06616) [CA-TCC](https://github.com/emadeldeen24/CA-TCC)
-  * Deep Learning for Time Series Classification and Extrinsic Regression: A Current Survey [ACM Computing Surveys, 2023](https://dl.acm.org/doi/abs/10.1145/3649448)
-  * Label-efficient Time Series Representation Learning: A Review [13 Feb 2023](https://arxiv.org/abs/2302.06433)
-  * Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects [16 Jun 2023](https://arxiv.org/abs/2306.10125) [SSL4TS](https://github.com/qingsongedu/Awesome-SSL4TS) 
-  * Unsupervised Representation Learning for Time Series: A Review [3 Aug 2023](https://arxiv.org/abs/2308.01578) [ULTS](https://github.com/mqwfrog/ULTS)
-  * Self-Supervised Learning for Time Series: Contrastive or Generative? [AI4TS workshop at IJCAI 2023](https://github.com/AI4TS/AI4TS.github.io/blob/main/CameraReadys%201-22%202/5%5CCameraReady%5CIJCAI23_TSworkshop_Jun29.pdf) [SSL_Comparison](https://github.com/DL4mHealth/SSL_Comparison)
-  * Self-Supervised Contrastive Learning for Medical Time Series: A Systematic Review [*Sensors* in 2023](https://www.mdpi.com/1424-8220/23/9/4221) [Contrastive-Learning-in-Medical-Time-Series-Survey](https://github.com/DL4mHealth/Contrastive-Learning-in-Medical-Time-Series-Survey)
-  * Applications of Self-Supervised Learning to Biomedical Signals: where are we now [**post date 2023-04-11**](https://www.techrxiv.org/articles/preprint/Applications_of_Self-Supervised_Learning_to_Biomedical_Signals_where_are_we_now/22567021/2)
-  * What Constitutes Good Contrastive Learning in Time-Series Forecasting? [last revised 13 Aug 2023](https://arxiv.org/abs/2306.12086)
-  * A review of self-supervised learning methods in the field of ECG [2023](http://fcst.ceaj.org/CN/PDF/10.3778/j.issn.1673-9418.2310043?token=84f995acdf3c47919c29ae81ccde6524)
-  * Universal Time-Series Representation Learning: A Survey [8 Jan 2024](https://arxiv.org/abs/2401.03717) [itouchz/awesome-deep-time-series-representations](https://github.com/itouchz/awesome-deep-time-series-representations)
+   * Self-supervised Contrastive Representation Learning for Semi-supervised Time-Series Classification [TPAMI 13 Aug 2022](https://arxiv.org/abs/2208.06616) [CA-TCC](https://github.com/emadeldeen24/CA-TCC)
+   * Deep Learning for Time Series Classification and Extrinsic Regression: A Current Survey [ACM Computing Surveys, 2023](https://dl.acm.org/doi/abs/10.1145/3649448)
+   * Label-efficient Time Series Representation Learning: A Review [13 Feb 2023](https://arxiv.org/abs/2302.06433)
+   * Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects [16 Jun 2023](https://arxiv.org/abs/2306.10125) [SSL4TS](https://github.com/qingsongedu/Awesome-SSL4TS) 
+   * Unsupervised Representation Learning for Time Series: A Review [3 Aug 2023](https://arxiv.org/abs/2308.01578) [ULTS](https://github.com/mqwfrog/ULTS)
+   * Self-Supervised Learning for Time Series: Contrastive or Generative? [AI4TS workshop at IJCAI 2023](https://github.com/AI4TS/AI4TS.github.io/blob/main/CameraReadys%201-22%202/5%5CCameraReady%5CIJCAI23_TSworkshop_Jun29.pdf) [SSL_Comparison](https://github.com/DL4mHealth/SSL_Comparison)
+   * Self-Supervised Contrastive Learning for Medical Time Series: A Systematic Review [*Sensors* in 2023](https://www.mdpi.com/1424-8220/23/9/4221) [Contrastive-Learning-in-Medical-Time-Series-Survey](https://github.com/DL4mHealth/Contrastive-Learning-in-Medical-Time-Series-Survey)
+   * Applications of Self-Supervised Learning to Biomedical Signals: where are we now [**post date 2023-04-11**](https://www.techrxiv.org/articles/preprint/Applications_of_Self-Supervised_Learning_to_Biomedical_Signals_where_are_we_now/22567021/2)
+   * What Constitutes Good Contrastive Learning in Time-Series Forecasting? [last revised 13 Aug 2023](https://arxiv.org/abs/2306.12086)
+   * A review of self-supervised learning methods in the field of ECG [2023](http://fcst.ceaj.org/CN/PDF/10.3778/j.issn.1673-9418.2310043?token=84f995acdf3c47919c29ae81ccde6524)
+   * Universal Time-Series Representation Learning: A Survey [8 Jan 2024](https://arxiv.org/abs/2401.03717) [itouchz/awesome-deep-time-series-representations](https://github.com/itouchz/awesome-deep-time-series-representations)
 
-  * Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond [21 Mar 2024](https://arxiv.org/abs/2403.14151) [yoshall/Awesome-Trajectory-Computing](https://github.com/yoshall/Awesome-Trajectory-Computing)
-  * Scaling-laws for Large Time-series Models [22 May 2024]( https://arxiv.org/abs/2405.13867)
-  * Deep Time Series Forecasting Models: A Comprehensive Survey [*Mathematics 2024*](https://www.mdpi.com/2227-7390/12/10/1504)
+   * Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond [21 Mar 2024](https://arxiv.org/abs/2403.14151) [yoshall/Awesome-Trajectory-Computing](https://github.com/yoshall/Awesome-Trajectory-Computing)
+   * Scaling-laws for Large Time-series Models [22 May 2024]( https://arxiv.org/abs/2405.13867)
+   * Deep Time Series Forecasting Models: A Comprehensive Survey [*Mathematics 2024*](https://www.mdpi.com/2227-7390/12/10/1504)
 *  GNN4TS
 
-  * A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection [7 Jul 2023](https://arxiv.org/abs/2307.03759) [KimMeen/Awesome-GNN4TS](https://github.com/KimMeen/Awesome-GNN4TS)
-  * K-Link: Knowledge-Link Graph from LLMs for Enhanced Representation Learning in Multivariate Time-Series Data [6 Mar 2024](https://arxiv.org/abs/2403.03645)
+   * A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection [7 Jul 2023](https://arxiv.org/abs/2307.03759) [KimMeen/Awesome-GNN4TS](https://github.com/KimMeen/Awesome-GNN4TS)
+   * K-Link: Knowledge-Link Graph from LLMs for Enhanced Representation Learning in Multivariate Time-Series Data [6 Mar 2024](https://arxiv.org/abs/2403.03645)
 *  Generative models
    *  General 
       *  A Survey of Generative Techniques for Spatial-Temporal Data Mining [15 May 2024 ](https://arxiv.org/abs/2405.09592)
@@ -316,29 +326,32 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 
 *  LLM4TS
 
-  * Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook [arxiv 16 Oct 2023](https://arxiv.org/abs/2310.10196) [Awesome-TimeSeries-SpatioTemporal-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)
-  * Large Language Models for Time Series: A Survey [2 Feb 2024](https://arxiv.org/abs/2402.01801) [xiyuanzh/awesome-llm-time-series](https://github.com/xiyuanzh/awesome-llm-time-series)
-  * Position Paper:What Can Large Language Models Tell Us about Time Series Analysis [5 Feb 2024](https://arxiv.org/abs/2402.02713)
-  * Empowering Time Series Analysis with Large Language Models: A Survey [5 Feb 2024](https://arxiv.org/abs/2402.03182)
-  * Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities [16 Feb 2024](https://arxiv.org/abs/2402.10835)
-  * A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model [3 May 2024](https://arxiv.org/abs/2405.02358) [start2020/Awesome-TimeSeries-LLM-FM](https://github.com/start2020/Awesome-TimeSeries-LLM-FM)
-  * Large Language Models for Mobility in Transportation Systems: A Survey on Forecasting Tasks [3 May 2024](https://arxiv.org/abs/2405.02357) 
-  * 
+   * Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook [arxiv 16 Oct 2023](https://arxiv.org/abs/2310.10196) [Awesome-TimeSeries-SpatioTemporal-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM)
+   * Large Language Models for Time Series: A Survey [2 Feb 2024](https://arxiv.org/abs/2402.01801) [xiyuanzh/awesome-llm-time-series](https://github.com/xiyuanzh/awesome-llm-time-series)
+   * Position Paper:What Can Large Language Models Tell Us about Time Series Analysis [5 Feb 2024](https://arxiv.org/abs/2402.02713)
+   * Empowering Time Series Analysis with Large Language Models: A Survey [5 Feb 2024](https://arxiv.org/abs/2402.03182)
+   * Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities [16 Feb 2024](https://arxiv.org/abs/2402.10835)
+   * A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model [3 May 2024](https://arxiv.org/abs/2405.02358) [start2020/Awesome-TimeSeries-LLM-FM](https://github.com/start2020/Awesome-TimeSeries-LLM-FM)
+   * Large Language Models for Mobility in Transportation Systems: A Survey on Forecasting Tasks [3 May 2024](https://arxiv.org/abs/2405.02357) 
+   * 
 *  Foundation  && Pre-Trained models
 
-  * A Survey on Time-Series Pre-Trained Models [18 May 2023](https://arxiv.org/abs/2305.10716)  [time-series-ptms](https://github.com/qianlima-lab/time-series-ptms)
+   * A Survey on Time-Series Pre-Trained Models [18 May 2023](https://arxiv.org/abs/2305.10716)  [time-series-ptms](https://github.com/qianlima-lab/time-series-ptms)
 
-  * Toward a Foundation Model for Time Series Data [21 Oct 2023](https://dl.acm.org/doi/abs/10.1145/3583780.3615155) [code](https://sites.google.com/view/timeclr)
+   * Toward a Foundation Model for Time Series Data [21 Oct 2023](https://dl.acm.org/doi/abs/10.1145/3583780.3615155) [code](https://sites.google.com/view/timeclr)
 
-  * A Review for Pre-Trained Transformer-Based Time Series Forecasting Models  [ITMS2023](https://ieeexplore.ieee.org/abstract/document/10317721)
+   * A Review for Pre-Trained Transformer-Based Time Series Forecasting Models  [ITMS2023](https://ieeexplore.ieee.org/abstract/document/10317721)
 
-  * A Survey of Deep Learning and Foundation Models for Time Series Forecasting [25 Jan 2024](https://arxiv.org/abs/2401.13912)
-  * Foundation Models for Time Series Analysis: A Tutorial and Survey [21 Mar 2024](https://arxiv.org/abs/2403.14735)
-  * Heterogeneous Contrastive Learning for Foundation Models and Beyond [30 Mar 2024](https://arxiv.org/abs/2404.00225)
-  * A Comprehensive Survey of Large Language Models and Multimodal Large Language Models in Medicine [14 May 2024](https://arxiv.org/abs/2405.08603)
+   * A Survey of Deep Learning and Foundation Models for Time Series Forecasting [25 Jan 2024](https://arxiv.org/abs/2401.13912)
+   * Foundation Models for Time Series Analysis: A Tutorial and Survey [21 Mar 2024](https://arxiv.org/abs/2403.14735)
+   * Heterogeneous Contrastive Learning for Foundation Models and Beyond [30 Mar 2024](https://arxiv.org/abs/2404.00225)
+   * A Comprehensive Survey of Large Language Models and Multimodal Large Language Models in Medicine [14 May 2024](https://arxiv.org/abs/2405.08603)
 *  Application
 
-  * Deep Learning for Multivariate Time Series Imputation: A Survey [6 Feb 2024](https://arxiv.org/abs/2402.04059) [WenjieDu/Awesome_Imputation](https://github.com/WenjieDu/Awesome_Imputation)
+   * Deep Learning for Multivariate Time Series Imputation: A Survey [6 Feb 2024](https://arxiv.org/abs/2402.04059) [WenjieDu/Awesome_Imputation](https://github.com/WenjieDu/Awesome_Imputation)
+*  latest
+   * A Comprehensive Survey of Deep Learning for Multivariate Time Series Forecasting: A Channel Strategy Perspective [15 Feb 2025](https://arxiv.org/abs/2502.10721)
+   * 
 *  Chinese
    *  任利强,贾舒宜,王海鹏,等.基于深度学习的时间序列分类研究综述[J/OL].电子与信息学报:1-23[2024-05-25].http://kns.cnki.net/kcms/detail/11.4494.TN.20240109.0749.008.html.
    *  毛远宏,孙琛琛,徐鲁豫,等.基于深度学习的时间序列预测方法综述[J].微电子学与计算机,2023,40(04):8-17.DOI:10.19304/J.ISSN1000-7180.2022.0725.
