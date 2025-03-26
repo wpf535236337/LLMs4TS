@@ -89,6 +89,8 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 
 * ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data [AAAI2025](https://arxiv.org/abs/2412.11376) [ChatTime](https://github.com/ForestsKing/ChatTime)
 * Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting [6 Feb 2025](https://arxiv.org/abs/2502.04395)
+* How Can Time Series Analysis Benefit From Multiple Modalities? A Survey and Outlook [*14 Mar 2025*](https://arxiv.org/abs/2503.11835) [MM4TSA](https://github.com/AdityaLab/MM4TSA)
+* Multi-modal Time Series Analysis: A Tutorial and Survey [17 Mar 2025](https://arxiv.org/abs/2503.13709) [Multi-modal-Time-Series-Analysis](https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis)
 
 #### Multimodal large models include TS
 
