@@ -27,6 +27,8 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment [3 Jun 2024](https://arxiv.org/abs/2406.01638)
   * TS-TCD: Triplet-Level Cross-Modal Distillation for Time-Series Forecasting Using Large Language Models [23 Sep 2024](https://arxiv.org/abs/2409.14978)
   * VITRO: Vocabulary Inversion for Time-series Representation Optimization [ICASSP2025](https://arxiv.org/abs/2412.17921)
+  * Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation [ICDE2025](https://arxiv.org/abs/2505.02138) [TimeKD]( https://github.com/ChenxiLiu-HNU/TimeKD)
+  * Logo-LLM: Local and Global Modeling with Large Language Models for Time Series Forecasting [16 May 2025](https://arxiv.org/pdf/2505.11017) 
 * Anomaly Detection
   * Large Language Model Guided Knowledge Distillation for Time Series Anomaly Detection [26 Jan 2024](https://arxiv.org/abs/2401.15123) [AnomalyLLM](https://github.com/fly-orange/AnomalyLLM/tree/main)
   * Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review [15 Feb 2024](https://arxiv.org/abs/2402.10350)
@@ -36,7 +38,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * Imputation 
   * GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation [24 Nov 2023](https://arxiv.org/abs/2311.14332)
   * NuwaTS: a Foundation Model Mending Every Incomplete Time Series [24 May 2024](https://arxiv.org/abs/2405.15317) [Chengyui/NuwaTS](https://github.com/Chengyui/NuwaTS)
-* classification
+* Classification
   * TableTime: Reformulating Time Series Classification as Zero-Shot Table Understanding via Large Language Models [24 Nov 2024](https://arxiv.org/abs/2411.15737) [tabletime](https://github.com/realwangjiahao/tabletime)
 
 * Spatio-temporal prediction
@@ -61,6 +63,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * Revisited Large Language Model for Time Series Analysis through Modality Alignment [16 Oct 2024](https://arxiv.org/abs/2410.12326)
   * Exploring Capabilities of Time Series Foundation Models in Building Analytics [28 Oct 2024](https://arxiv.org/abs/2411.08888)
   * [Fundamental limitations of foundational forecasting models-The need for multimodality and rigorous evaluation](https://cbergmeir.com/talks/bergmeir2024NeurIPSInvTalk.pdf) **2024NeurIPSInvTalk**
+  * Revisiting LLMs as Zero-Shot Time-Series Forecasters: Small Noise Can Break Large Models [ACL 2025 Short Paper ](https://arxiv.org/abs/2506.00457) [revisiting-LLMs-zeroshot-forecaster](https://github.com/junwoopark92/revisiting-LLMs-zeroshot-forecaster) 
 * Reasoning
   * ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning [4 Dec 2024](https://arxiv.org/abs/2412.03104)
   * Position: Empowering Time Series Reasoning with Multimodal LLMs [3 Feb 2025](https://arxiv.org/abs/2502.01477)
@@ -68,7 +71,8 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
   * TempoGPT: Enhancing Time Series Reasoning via Quantizing Embedding [13 Jan 2025 ](https://arxiv.org/abs/2501.07335)
   * Beyond Forecasting: Compositional Time Series Reasoning for End-to-End Task Execution [5 Oct 2024](https://arxiv.org/abs/2410.04047v1)
   * Towards Time-Series Reasoning with LLMs [2024 NeurIPS Workshop](https://arxiv.org/abs/2409.11376)
-  * 
+  * Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs [12 Jun 2025](https://arxiv.org/abs/2506.10630) [Time-R1](https://github.com/lqzxt/Time-R1)
+  * Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting [30 May 2025](https://arxiv.org/abs/2505.24511) [TimeReasoner](https://github.com/realwangjiahao/TimeReasoner)
 
 
 #### Vision4TS
@@ -83,7 +87,8 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * Vision-Enhanced Time Series Forecasting by Decomposed Feature Extraction and Composed Reconstruction [submit ICLR2025](https://openreview.net/forum?id=DcG4YnbOT3)
 * Vision-Enhanced Time Series Forecasting via Latent Diffusion Models [16 Feb 2025](https://arxiv.org/abs/2502.14887)
 * Harnessing Vision Models for Time Series Analysis: A Survey [13 Feb 2025](https://arxiv.org/abs/2502.08869)
-* 
+* From Images to Signals: Are Large Vision Models Useful for Time Series Analysis? [29 May 2025](https://arxiv.org/abs/2505.24 030) 
+* Multi-Modal View Enhanced Large Vision Models for Long-Term Time Series Forecasting [29 May 2025](https://arxiv.org/abs/2505.24003)
 
 #### Multimodal time 
 
@@ -293,6 +298,7 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
 * GIFT-Eval: A Benchmark For General Time Series Forecasting Model Evaluation [14 Oct 2024](https://arxiv.org/abs/2410.10393) [GIFT-Eval](https://github.com/SalesforceAIResearch/gift-eval)
 * AD-LLM: Benchmarking Large Language Models for Anomaly Detection [15 Dec 2024](https://arxiv.org/abs/2412.11142) [AD-LLM](https://github.com/USC-FORTIS/AD-LLM)
 * Context is Key: A Benchmark for Forecasting with Essential Textual Information [24 Oct 2024](https://arxiv.org/abs/2410.18959)
+* Time-IMM: A Dataset and Benchmark for Irregular Multimodal Multivariate Time Series [12 Jun 2025 ](https://arxiv.org/abs/25 06.10412) [IMMTSF](https://anonymous.4open.science/r/IMMTSF_NeurIPS2025/README.md)
 
 #### Survey4TS
 
@@ -335,7 +341,8 @@ Awesome resources focus on the application of cutting-edge AI technologies for t
    * Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities [16 Feb 2024](https://arxiv.org/abs/2402.10835)
    * A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model [3 May 2024](https://arxiv.org/abs/2405.02358) [start2020/Awesome-TimeSeries-LLM-FM](https://github.com/start2020/Awesome-TimeSeries-LLM-FM)
    * Large Language Models for Mobility in Transportation Systems: A Survey on Forecasting Tasks [3 May 2024](https://arxiv.org/abs/2405.02357) 
-   * 
+   * Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era [IJCAI 2025 Survey Track](https://arxiv.org/abs/2505.02583)
+   * Large Language models for Time Series Analysis: Techniques, Applications, and Challenges [21 May 2025](https://arxiv.org/abs/2506.11040) 
 *  Foundation  && Pre-Trained models
 
    * A Survey on Time-Series Pre-Trained Models [18 May 2023](https://arxiv.org/abs/2305.10716)  [time-series-ptms](https://github.com/qianlima-lab/time-series-ptms)
